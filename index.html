@@ -2,22 +2,13 @@
 layout: default
 ---
 
-<div class="home">
+Berna:
+<ul>
+{% for item in site.revealjs %}
+<li><a href="{{ item.url }}">{{ item.title }}</a></li>
+{% endfor %}
 
-  <h1 class="page-heading">Posts</h1>
+Adicionais:
+<a href="https://docs.google.com/presentation/d/1eb_I_noamsuZXuSa1_k1et1SanNfGQkFyoAfhzbcVlY/present#slide=id.p13">Numbers</a>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+</ul>

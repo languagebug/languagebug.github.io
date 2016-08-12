@@ -1,0 +1,36 @@
+---
+title: Yourself
+layout: revealjs-talkabout
+script: 
+- My full name's _____. 
+- Everyone calls me _____. 
+- I'm _____ years-old. I'll be _____  in _____. 
+- I was born in _____. 
+- I grew up in _____.  
+- My eyes are _____. 
+- My hair is _____. 
+- I currently live in _____. 
+- I'm _____ feet tall. 
+- My address is _____. 
+- My blood type is _____. 
+- I'm married・single・divorced. 
+- I am of _____ descent. 
+- I like to wear (casual ・ formal) clothes 
+- I go to _____ University ・ High School. 
+- I'm taking  _____.  
+- I'm (a ・ an) _____.  
+- I majored in _____.  
+- I work at  _____. 
+- I work as (a ・ an) _____.   
+- I have worked there for _____. 
+- I look like my (father ・ mother). 
+- My hobbies are _____.  
+- My favorite food is _____. 
+- I'm outgoing ・ shy. 
+- My favorite kind of music is _____ 
+- My favorite sport to (watch ・ play) is _____  
+- I have pets. I have a ・ an _____. 
+- I don't have any pets. 
+- My childhood was good ・ bad ・ OK. 
+- My teenage years were good ・ bad ・ OK.
+---

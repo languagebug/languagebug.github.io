@@ -1,0 +1,14 @@
+---
+layout: revealjs-default
+---
+
+<section>
+    <h2>VOCABULARY</h2>
+    <h1>{{ page.title }}</h1>
+</section>
+
+<section>
+{% for item in page.script %}
+    {{ item }} •
+{% endfor %}
+</section>
