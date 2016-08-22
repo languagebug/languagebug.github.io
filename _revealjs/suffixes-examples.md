@@ -11,6 +11,8 @@ script:
 - generally
 - easily
 - hardly
+- legally
+- incredibly
 - acessible
 - divisible 
 - admirable
