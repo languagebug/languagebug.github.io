@@ -6,6 +6,7 @@ script:
 - -d
 - -ly
 - -ible
+- -able
 - -ity
 - -ence
 ---

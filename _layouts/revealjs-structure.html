@@ -1,0 +1,16 @@
+---
+layout: revealjs-default
+---
+
+<section>
+    <h2>STRUCTURE</h2>
+    <h1>{{ page.title }}</h1>
+</section>
+
+<section>
+<ol>
+{% for item in page.script %}
+<li class="fragment">{{ item }}</li>
+{% endfor %}
+</ol>
+</section>
