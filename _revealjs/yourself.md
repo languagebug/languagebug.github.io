@@ -1,6 +1,7 @@
 ---
 title: Yourself
 layout: revealjs-talkabout
+quantity: 4
 script: 
 - My full name's _____. 
 - Everyone calls me _____. 

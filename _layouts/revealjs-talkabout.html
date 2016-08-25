@@ -8,6 +8,15 @@ layout: revealjs-default
 </section>
 
 <section>
+    <ol>
+    {% for i in (0..page.quantity) %}
+        <li>{{ page.script[i)] }}</li>
+    {% endfor %}
+    </ol>
+</section>
+
+<!--
+<section>
 <ol start="1">
     <li>{{ page.script[0] }}</li>
     <li>{{ page.script[1] }}</li>
@@ -16,6 +25,8 @@ layout: revealjs-default
     <li>{{ page.script[4] }}</li>
 </ol>
 </section>
+-->
+
 <section>
 <ol start="6">
     <li>{{ page.script[6] }}</li>
