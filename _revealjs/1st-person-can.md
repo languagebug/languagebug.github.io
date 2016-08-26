@@ -1,10 +1,10 @@
 ---
-title: 1st Person-Ing
+title: 1st Person Can
 layout: revealjs-structure
 script:
-- I am ___-ing.
-- I was ___-ing.
-- I will be ___-ing.
+- I can ___.
+- I could ___.
+- I will be able to ___.
 examples:
 - Play
 - Work

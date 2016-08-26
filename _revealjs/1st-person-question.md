@@ -1,10 +1,10 @@
 ---
-title: 1st Person
+title: 1st Person Question
 layout: revealjs-structure
 script:
-- I am ___.
-- I was ___.
-- I will be ___.
+- Am I ___?
+- Was I ___?
+- Will I be ___?
 examples:
 - Tall
 - Short

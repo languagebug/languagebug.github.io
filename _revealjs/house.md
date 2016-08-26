@@ -1,6 +1,7 @@
 ---
 title: House
 layout: revealjs-talkabout
+quantity: 4
 script: 
 - I live in a/an ___. 
 - I have lived there for ___. 

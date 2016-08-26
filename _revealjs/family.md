@@ -1,6 +1,7 @@
 ---
 title: Family
 layout: revealjs-talkabout
+quantity: 4
 script: 
 - There are ___ people in my family. 
 - My family consists of me, my father, my mother and ___ sibling(s). 

@@ -14,3 +14,20 @@ layout: revealjs-default
 {% endfor %}
 </ol>
 </section>
+
+{% for item in page.examples %}
+<section>
+	<h1>{{ item }}</h1>
+	<ul>
+	{% for item in page.script %}
+	<li>{{ item }}</li>
+	{% endfor %}
+	</ul>
+</section>
+{% endfor %}
+
+{% for item in page.examples %}
+<section>
+	<h1>{{ item }}</h1>
+</section>
+{% endfor %}
