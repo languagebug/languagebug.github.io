@@ -14,15 +14,15 @@ script:
 - I'm _____ feet tall. 
 - My address is _____. 
 - My blood type is _____. 
-- I'm married・single・divorced. 
+- I'm (married・single・divorced). 
 - I am of _____ descent. 
 - I like to wear (casual ・ formal) clothes 
 - I go to _____ University ・ High School. 
 - I'm taking  _____.  
-- I'm (a ・ an) _____.  
+- I'm a(n) _____.  
 - I majored in _____.  
 - I work at  _____. 
-- I work as (a ・ an) _____.   
+- I work as a(n) _____.   
 - I have worked there for _____. 
 - I look like my (father ・ mother). 
 - My hobbies are _____.  
