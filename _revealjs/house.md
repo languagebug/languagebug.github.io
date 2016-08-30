@@ -3,27 +3,26 @@ title: House
 layout: revealjs-talkabout
 quantity: 4
 script: 
-- I live in a/an ___. 
+- I live in a(n) ___. 
 - I have lived there for ___. 
 - My address is ___. 
-- My (house・apartment) is big/small.  
+- My (house/apartment) is (big/small).  
 - Its color is ___. 
-- In my house there is・are ___ rooms. 
-- There (is・are) ___ bedrooms. 
-- There (is・are) ___ bathrooms. 
-- There (is・are) also ___kitchen(s), 
+- In my house there (is・are) ___ rooms. 
+- There (is・are) ___ bedroom(s). 
+- There (is・are) ___ bathroom(s). 
+- There (is・are) also ___ kitchen(s), 
 - ___living room(s), 
 - and _____dining room(s). 
-- There (is・are) also ___ garage(s). 
-- There is (isn't) a garden. 
-- There is (isn't) a swimming pool. 
-- There is (isn't) an attic. 
-- There is (isn't) a basement. 
-- In front of the house, there's ___. 
-- In the back of the house, there's ____. 
-- On the right there's ___, and on the left there's ___. 
-- Near my house there is・are ___. 
+- There (is/isn't) a garage. 
+- There (is/isn't) a garden. 
+- There (is/isn't) a swimming pool. 
+- In front of my (house/apartment), there's ___. 
+- In the back of my (house/apartment), there's ____. 
+- On the right there's ___,
+- and on the left there's ___.
+- Near my house there (is/are) ___. 
 - What I like most about my house is ___.
 - What I like the least about my house is ___. 
-- My neighborhood is (very・not so) good. 
+- My neighborhood is good/bad/OK. 
 ---

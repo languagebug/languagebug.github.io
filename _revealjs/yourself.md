@@ -17,7 +17,7 @@ script:
 - I'm (married・single・divorced). 
 - I am of _____ descent. 
 - I like to wear (casual ・ formal) clothes 
-- I go to _____ University ・ High School. 
+- I (go ・ went) to _____ (University ・ High School). 
 - I'm taking  _____.  
 - I'm a(n) _____.  
 - I majored in _____.  
@@ -25,13 +25,13 @@ script:
 - I work as a(n) _____.   
 - I have worked there for _____. 
 - I look like my (father ・ mother). 
-- My hobbies are _____.  
+- My hobbies are _____-ing and _____-ing.  
 - My favorite food is _____. 
-- I'm outgoing ・ shy. 
+- I'm (outgoing ・ shy). 
 - My favorite kind of music is _____ 
 - My favorite sport to (watch ・ play) is _____  
-- I have pets. I have a ・ an _____. 
+- I have pets. I have a(n) _____. 
 - I don't have any pets. 
-- My childhood was good ・ bad ・ OK. 
-- My teenage years were good ・ bad ・ OK.
+- My childhood was (good ・ bad). 
+- My teenage years were (good ・ bad).
 ---

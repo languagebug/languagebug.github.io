@@ -2,15 +2,15 @@
 title: 1st Person
 layout: revealjs-structure
 script:
-- I am ___.
-- I was ___.
-- I will be ___.
+- I ___.
+- I ___(ed).
+- I ___.
 examples:
-- Tall
-- Short
-- Young
-- Old
-- Rico
-- Pobre
-- Forte
+- Play
+- Work
+- Study
+- Help
+- Jogar
+- Trabalhar
+- Ajudar
 ---
