@@ -1,6 +1,7 @@
 ---
 title: Where
 layout: revealjs-vocabulary
+category: warm-up
 script: 
 - Here
 - There

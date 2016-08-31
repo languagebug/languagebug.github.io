@@ -1,6 +1,7 @@
 ---
 title: With Whom
 layout: revealjs-vocabulary
+category: warm-up
 script: 
 - alone
 - by myself

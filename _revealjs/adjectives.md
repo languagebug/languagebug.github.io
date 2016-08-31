@@ -1,6 +1,7 @@
 ---
 title: Adjectives
 layout: revealjs-vocabulary
+category: warm-up
 script: 
 - young
 - old

@@ -1,8 +1,8 @@
 ---
 title: Methodology
 layout: revealjs-vocabulary
+category: method
 script: 
-
 - Busque cognatos.
 - Use prefixos e sufixos.
 - Foque naquilo que você entende.
@@ -16,6 +16,7 @@ script:
 - Sobrevivência.
 - Personalização.
 - Não corrija os outros!
+script2:
 - Não se preocupe! Você vai ver isso de novo.
 - Não escreva.
 - Você perde o foco com exemplos demais.
