@@ -2,19 +2,17 @@
 title: There is
 layout: revealjs-structure
 script:
-- There is a(n) ___.
-- There was a(n) ___.
-- There will be a(n) ___.
+- There is a(n) ___ (in my house).
+- There was a(n) ___ (in my house).
+- There will be a(n) ___ (in my house).
 examples:
 - Dog
 - Cat
-- House
 - Party
 - Person
 - Table
 - Cachorro
 - Gato
-- Casa
 - Festa
 - Pessoa
 - Mesa

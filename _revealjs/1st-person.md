@@ -4,7 +4,7 @@ layout: revealjs-structure
 script:
 - I ___.
 - I ___(ed).
-- I ___.
+- I will ___.
 examples:
 - Play
 - Work

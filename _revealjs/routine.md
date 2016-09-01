@@ -1,5 +1,5 @@
 ---
-title: Hometown
+title: Routine
 layout: revealjs-talkabout
 quantity: 4
 script: 
@@ -10,14 +10,14 @@ script:
 - On Weekdays, I ___ and ___.
 - In the mornings,
 - I wake up, get and take a shower. 
-- I comb my hair and brush my teeth.
-- I get dressed, I make and eat breakfast. 
+- I and brush my teeth, get dressed.
+- I make and eat breakfast. 
 - I leave for work at ___ and get to work at ___.
 - I start work at ___.
 - In the afternoons,
 - I have lunch at ___, finish lunch and go back to work.
 - I start work again and work until  ___.
-- I finish work, clean my desk, and leave work at ___.
+- I stop working at ___.
 - In the evenings,
 - I get home at ___, make and have dinner,
 - do the dishes, watch some TV or use my computer.

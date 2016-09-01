@@ -18,11 +18,12 @@ script:
     probably
     legally
     particularly
-  - acessible
+  - accessible
     divisible 
     convertible
     incredible
     invincible
+script2:
   - admirable
     adorable
     considerable
@@ -38,4 +39,9 @@ script:
     patience
     innocence
     adolescence
+  - abbreviation
+    abstention
+    action
+    activation
+    attention
 ---
