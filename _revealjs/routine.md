@@ -9,8 +9,8 @@ script:
 - Well, my daily routine is pretty (busy/normal). 
 - On Weekdays, I ___ and ___.
 - In the mornings,
-- I wake up, get and take a shower. 
-- I and brush my teeth, get dressed.
+- I wake up, get up and take a shower. 
+- I brush my teeth, get dressed,
 - I make and eat breakfast. 
 - I leave for work at ___ and get to work at ___.
 - I start work at ___.
