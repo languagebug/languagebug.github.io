@@ -26,6 +26,12 @@ layout: default
 			<li><a href="{{ item.url }}">{{ item.title }}</a></li>
 		{% endif %}
 	{% endfor %}
+<li class="ul-header">Phonics:</li>
+	{% for item in site.revealjs %}
+		{% if item.layout == "revealjs-phonics" %}
+			<li><a href="{{ item.url }}">{{ item.title }}</a></li>
+		{% endif %}
+	{% endfor %}
 <li class="ul-header">Adicionais:</li>
 	<li>
 		<a href="https://docs.google.com/presentation/d/1eb_I_noamsuZXuSa1_k1et1SanNfGQkFyoAfhzbcVlY/present#slide=id.p13">Numbers</a>

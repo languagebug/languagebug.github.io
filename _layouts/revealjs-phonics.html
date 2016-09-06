@@ -1,0 +1,20 @@
+---
+layout: revealjs-default
+---
+
+<section>
+    <h2>PHONICS</h2>
+    <h1>/{{ page.title }}/</h1>
+</section>
+
+<section>
+{% for item in page.script %}
+<h1>{{ item }}</h1>
+{% endfor %}
+</section>
+
+{% for item in page.examples %}
+<section>
+	<h1>{{ item }}</h1>
+</section>
+{% endfor %}
