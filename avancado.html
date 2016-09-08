@@ -1,0 +1,34 @@
+---
+layout: default
+title: Avançado
+---
+<ul>
+	<li class="ul-header">Warm-up:</li>
+	{% for item in site.berna %}
+		{% if item.category == "warm-up" %}
+			<li><a href="{{ item.url }}">{{ item.title }}</a></li>
+		{% endif %}
+	{% endfor %}
+	<li class="ul-header">Controversial Issues:</li>
+	{% for item in site.avancado %}
+		{% if item.layout == "revealjs-topicsentences" %}
+			<li><a href="{{ item.url }}">{{ item.title }}</a></li>
+		{% endif %}
+	{% endfor %}
+	<li class="ul-header">TOEFL Opinion</li>
+	{% for item in site.avancado %}
+		{% if item.layout == "revealjs-toefl-opinion" %}
+			<li><a href="{{ item.url }}">{{ item.title }}</a></li>
+		{% endif %}
+	{% endfor %}
+<li class="ul-header">Mais:</li>
+	<li>
+		<a href="https://docs.google.com/presentation/d/12iVRBpXiJBY6aVVBHmuK8fTVXpbu05HvOZtGePyeofA/present#slide=id.p47">Present Perfect Tense</a>
+	</li>
+	<li>
+		<a href="https://docs.google.com/presentation/d/1dzU6at49RpHy6-CNHOmb9_hKa46I2dyuqZVooSo8yGs/present#slide=id.p319">Talk about your country</a>
+	</li>
+	<li>
+		<a href="https://drive.google.com/file/d/0B-D7NHTmyc54Z0tNQ1ZmSmxQeTA/view">The Rainbow Passage</a>
+	</li>
+</ul>

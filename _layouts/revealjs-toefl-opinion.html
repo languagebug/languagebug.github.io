@@ -1,0 +1,19 @@
+---
+layout: revealjs-default
+---
+
+<section>
+    <h2>Discussion</h2>
+    <h1>{{ page.title }}</h1>
+</section>
+
+<section>
+	<p>{{ page.question }}</p>
+</section>
+
+{% for item in page.script %}
+	<section>
+	    <p><small>{{ item.english }}</small></p>
+	    <p class="fragment"><em><small><sup>{{ item.portuguese }}</sup></small></em></p>
+	</section>
+{% endfor %}

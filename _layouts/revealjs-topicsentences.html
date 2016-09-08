@@ -1,0 +1,25 @@
+---
+layout: revealjs-default
+---
+
+<section>
+    <h2>Discussion</h2>
+    <h1>{{ page.title }}</h1>
+</section>
+
+{% for item in page.script %}
+	<section>
+		<ol start="{{item.number}}">
+		    <li><p>{{ item.english }}</p>
+		    <p class="fragment"><em><small>{{ item.portuguese }}</small></em></p></li>
+		</ol>
+	</section>
+{% endfor %}
+
+<section>
+	<p><small><strong>Agora, expanda cada um destes pontos com suas próprias palavras. Você pode adicionar uma breve explicação, ou exemplos, ou perguntas, etc.</strong></small></p>
+</section>
+
+<section>
+	<img src="images/controversial-issues.png" alt="">
+</section>
