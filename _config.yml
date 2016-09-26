@@ -21,7 +21,7 @@ github_username:  guibueno
 # Build settings
 markdown: kramdown
 collections:
-  berna:
+  iniciante:
     output: true
   avancado:
     output: true
