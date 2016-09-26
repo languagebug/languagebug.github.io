@@ -4,31 +4,31 @@ title: Iniciante
 ---
 <ul>
 <li class="ul-header">Method:</li>
-	{% for item in site.berna %}
+	{% for item in site.iniciante %}
 		{% if item.category == "method" %}
 			<li><a href="{{ item.url }}">{{ item.title }}</a></li>
 		{% endif %}
 	{% endfor %}
 	<li class="ul-header">Warm-up:</li>
-	{% for item in site.berna %}
+	{% for item in site.iniciante %}
 		{% if item.category == "warm-up" %}
 			<li><a href="{{ item.url }}">{{ item.title }}</a></li>
 		{% endif %}
 	{% endfor %}
 <li class="ul-header">Structure:</li>
-	{% for item in site.berna %}
+	{% for item in site.iniciante %}
 		{% if item.layout == "revealjs-structure" %}
 			<li><a href="{{ item.url }}">{{ item.title }}</a></li>
 		{% endif %}
 	{% endfor %}
 <li class="ul-header">Talk about:</li>
-	{% for item in site.berna %}
+	{% for item in site.iniciante %}
 		{% if item.layout == "revealjs-talkabout" %}
 			<li><a href="{{ item.url }}">{{ item.title }}</a></li>
 		{% endif %}
 	{% endfor %}
 <li class="ul-header">Phonics:</li>
-	{% for item in site.berna %}
+	{% for item in site.iniciante %}
 		{% if item.layout == "revealjs-phonics" %}
 			<li><a href="{{ item.url }}">{{ item.title }}</a></li>
 		{% endif %}
