@@ -17,3 +17,19 @@
 7:30pm
 M
 
+- Método
+- Não corriga os outros
+
+- Greetings
+- Adjectives
+- Where
+- With whom
+- Verbs
+
+- I am ___.
+- I work.
+- I am working.
+
+- Yourself 1 to 20
+- Your Family 1 to 10
+- Your House 1 to 5
