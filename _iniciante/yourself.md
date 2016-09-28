@@ -18,11 +18,12 @@ script:
 - I am of _____ descent. 
 - I like to wear (casual/formal) clothes 
 - I (go/went) to _____ (University/High School). 
-- I'm taking  _____.  
+- I'm taking English lessons.  
 - I'm a(n) _____.  
 - I majored in _____.  
 - I work at  _____. 
-- I work as a(n) _____.   
+- I work as a(n) _____.
+- I'm not employed at the moment.   
 - I have worked there for _____. 
 - I look like my (father/mother). 
 - My hobbies are _____-ing and _____-ing.  
