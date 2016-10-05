@@ -10,7 +10,7 @@ script:
 - The weather is (hot/cold/mild).
 - In my city there (is/are) ___.
 - There (is/are) also ___.
-- The tourist attractions are ___.
+- The tourist attractions are ___ and ___.
 - What I like the most about my city is ___.
 - What I like the least about my city is ___.
 - The local economy is based on ___.

@@ -16,13 +16,14 @@ script:
 - and _____dining room(s). 
 - There (is/isn't) a garage. 
 - There (is/isn't) a garden. 
+- There (is/isn't) a balcony. 
 - There (is/isn't) a swimming pool. 
-- In front of my (house/apartment), there's ___. 
-- In the back of my (house/apartment), there's ____. 
+- In front of my (house/building), there's ___. 
+- In the back of my (house/building), there's ____. 
 - On the right there's ___,
 - and on the left there's ___.
-- Near my house there (is/are) ___. 
-- What I like most about my house is ___.
-- What I like the least about my house is ___. 
+- Near my (house/building) there (is/are) ___. 
+- What I like most about my house/apartment is ___.
+- What I like the least about my house/apartment is ___. 
 - My neighborhood is good/bad/OK. 
 ---

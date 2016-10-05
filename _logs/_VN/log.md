@@ -34,3 +34,23 @@ Even (mesmo)
 
 # Aula 2
 29/09/2016
+
+* Commute: viagem de casa ao trampo.
+
+Encontrou um trabalho.
+Busca por casa.
+
+# Aula 3
+04/10/2016
+
+* There is / There are: fossilized correction
+* Weed, pot, marijuana, 
+* Reservation, booking.
+* Hire, not contracted.
+* "Monica is..." not "The monica is..."
+
+Governanta: housekeeper
+Cama elástica: trampoline
+
+# Aula 4
+06/10/2016

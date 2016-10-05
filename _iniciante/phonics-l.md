@@ -7,7 +7,11 @@ examples:
 - lâmpada
 - lamp
 - lap
+- mental(âmpada)
+- mental(âm)
 - mental
+- dental(âmpada)
+- dental(âm)
 - dental
 - old
 ---

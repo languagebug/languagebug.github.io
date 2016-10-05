@@ -23,31 +23,29 @@ d
 l
 t
 
-# Aula 2*
+# Aula 2
 29/09/2016
 
-- Conversar sobre mudança de nível e treino sozinha.
+Vídeo e choro.
 
-* Verbs (4/5)
-* Verbs Irr (4/5)
-* Verbs Irr Past (3/5)
+# Aula 3
+30/09/2016
 
-* Have to
-* Used to
-* Supposed to
-* Possessive
-- Verificar estrutura
+Vídeo.
 
-* Family
-* Future
-* Hometown
-* House
-* Routine
-* Yesterday
-* Yourself
+# Aula 4
+03/10/2016
 
-d
-l
-t
-m
-n
+Vídeo
+
+# Aula 5
+04/10/2016
+
+Vídeo com Amanda.
+
+Foco em hometown slide 2.
+
+# Aula 6
+05/10/2016
+
+Com M e S.

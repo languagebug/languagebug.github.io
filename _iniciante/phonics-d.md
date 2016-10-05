@@ -4,9 +4,11 @@ layout: revealjs-phonics
 script:
 - "/d/"
 examples:
+- dado
+- dsadso
 - dig
 - dog
-- den
+- deny
 - division
 - depends
 ---

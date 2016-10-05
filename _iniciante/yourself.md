@@ -19,12 +19,11 @@ script:
 - I like to wear (casual/formal) clothes 
 - I (go/went) to _____ (University/High School). 
 - I'm taking English lessons.  
-- I'm a(n) _____.  
+- I'm a(n) _____ (profession).  
 - I majored in _____.  
-- I work at  _____. 
-- I work as a(n) _____.
-- I'm not employed at the moment.   
+- I work at  _____ (company). I work as a(n) _____ (job).
 - I have worked there for _____. 
+- I'm not employed at the moment.   
 - I look like my (father/mother). 
 - My hobbies are _____-ing and _____-ing.  
 - My favorite food is _____. 

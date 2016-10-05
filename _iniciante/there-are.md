@@ -2,9 +2,9 @@
 title: There are
 layout: revealjs-structure
 script:
-- There are ___ (in my house).
-- There were ___ (in my house).
-- There will be ___ (in my house).
+- There are many ___ (in my city).
+- There were many ___ (in my city).
+- There will be many ___ (in my city).
 examples:
 - Dogs
 - Cats

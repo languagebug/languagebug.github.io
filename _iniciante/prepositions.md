@@ -10,8 +10,8 @@ script:
     of a
     of the
   - from
-    from the
     from a
+    from the
   - at
     at a
     at the

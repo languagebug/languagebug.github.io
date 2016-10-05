@@ -17,11 +17,11 @@ script:
 - Personalização.
 - Não corrija os outros!
 script2:
-- Não se preocupe! Você vai ver isso de novo.
-- Não escreva.
+- Não se preocupe, você vai ver isso de novo.
+- Não é preciso escrever.
 - Você perde o foco com exemplos demais.
-- Reincidência.
 - Você não vai se lembrar de tudo.
-- Não pergunte “por quê?”, pergunte “como?.
+- Você vai se lembrar de cada vez mais coisas.
 - Nos dê o benefício da dúvida.
+- Não pergunte “por quê?”, pergunte “como?.
 ---

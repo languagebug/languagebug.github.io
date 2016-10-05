@@ -9,14 +9,12 @@ examples:
 - Short
 - Young
 - Old
-- Rico
-- Pobre
-- Forte
-- Hot
 - generous 
 - important 
 - intelligent
 - complicated
 - outgoing
-- stubborn
+- Rico
+- Pobre
+- Forte
 ---
