@@ -4,6 +4,7 @@ layout: revealjs-phonics
 script:
 - "/l/"
 examples:
+- lâmpada
 - lamp
 - lap
 - mental
