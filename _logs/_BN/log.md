@@ -49,3 +49,38 @@ Foco em hometown slide 2.
 05/10/2016
 
 Com M e S.
+
+- Greetings 1
+- Adjectives
+- Where
+- With whom
+- How frequent
+- Verbs
+
+- Suffixes (ence, tion)
+- Suffixes examples
+
+- 1st person
+- 1st person be
+- 1st person ing
+
+- Possessive
+- There is
+- There are
+
+- L
+- M
+- N
+- P
+- J
+
+- Your family 1 to 10.
+- Your home 1 to 10.
+- Your routine 1 to 5
+
+Boas interações entre todas.
+
+# Aula 7
+06/10/2016
+
+Com vídeo.

@@ -85,8 +85,8 @@ Método:
 - Where
 - With whom
 - How frequent
-
 - Verbs
+
 - Suffixes (ence, tion)
 - Suffixes examples
 
@@ -97,8 +97,6 @@ Método:
 - Possessive
 - There is
 - There are
-- Comparative
-- Superlative
 
 - L
 - M
@@ -106,11 +104,28 @@ Método:
 - P
 - J
 
-- Yourself 1 to 31.
-- Your family 1 to 15.
+- Your family 1 to 10.
 - Your home 1 to 10.
 - Your routine 1 to 5
 
-- Numbers (opcional), para forçar rapidez.
+Boas interações entre todas.
 
-Fazer várias interações entre as 3.
+
+# Aula 3
+09/10/2016
+7:30pm
+M
+
+Método:
+- Não corrija os outros.
+
+- Yourself 1 to 25.
+
+- Comparative
+- Superlative
+
+- Your family 1 to 15.
+- Your house 1 to 10.
+- Your routine 1 to 5.
+
+- Phonemes revisão

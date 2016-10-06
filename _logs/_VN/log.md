@@ -49,8 +49,15 @@ Busca por casa.
 * Hire, not contracted.
 * "Monica is..." not "The monica is..."
 
-Governanta: housekeeper
-Cama elástica: trampoline
+workload = carga de trabalho
+structure = estrutura
+yard = jardim
+build (built) = construir
+warm it up = esquentar isso
+warm up the food = esquentar a comida
+cama elástica = trampoline
 
 # Aula 4
 06/10/2016
+
+Governanta = housekeeper
