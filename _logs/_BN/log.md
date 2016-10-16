@@ -138,3 +138,8 @@ Yesterday
 Numbers
 
 Pedi para assistir Friends 1x ao dia com fone no Netflix.
+
+# Semana 10/10-10/14
+
+1 episódio de Friends com legenda em português.
+
