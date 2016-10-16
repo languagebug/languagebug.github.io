@@ -1,3 +1,6 @@
+---
+---
+
 # Aula 0 (demo)
 
 26/09/2016
@@ -111,23 +114,36 @@ Método:
 Boas interações entre todas.
 
 
-# Aula 3
-09/10/2016
+# Aula 4
+10/10/2016
 7:30pm
 M
 
-Método:
-- Não corrija os outros.
+Warm-up:
+  Greetings I e II
+  Adjectives
+  How frequent?
+  With whom?
+  Where?
+  Suffixes
+  Verbs
 
-- Yourself 1 to 25.
+Phonics:
+  T (new)
+  D (new)
+  J
+  L
+  M
+  N
 
-- Comparative
-- Superlative
+Numbers!
 
-- Your family 1 to 15.
-- Your house 1 to 10.
-- Your routine 1 to 5.
+Talk about:
+  House (1 to 15)
 
-- Phonemes revisão
+# Aula 5
+17/10/2016
+7:30pm
+M
 
-# Aula 4
+Foco em Talk about

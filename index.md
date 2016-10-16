@@ -2,44 +2,47 @@
 layout: default
 ---
 
-05/10/2016
+# Aula 5
 
-Método:  
-- Exemplos demais, foco de menos.  
-- Pergunte como, não porque.  
-- Nos dê o benefício da dúvida.	  
+Foco em TALK ABOUT.
 
-- Greetings 1
-- Adjectives
-- Where
-- With whom
-- How frequent
+## Vocabulaly
 
-- Verbs
-- Suffixes (ence, tion)
-- Suffixes examples
+## Warm-up
 
-- 1st person
-- 1st person be
-- 1st person ing
+Adjectives
+How frequent?
+Where
+With Whom
 
-- Possessive
-- There is
-- There are
-- Comparative
-- Superlative
+## Treino
 
-- L
-- M
-- N
-- P
-- J
+Greetings I
+Verbs
 
-- Yourself 1 to 31.
-- Your family 1 to 15.
-- Your home 1 to 10.
-- Your routine 1 to 5
+## Novo
+Verbs-Irr
+Greetings II
 
-- Numbers (opcional), para forçar rapidez.
+## Structure
 
-Fazer várias interações entre as 3.
+## Treino
+
+1st Person Be
+1st Person
+1st Person-Ing
+There are
+There is
+
+## Novo
+
+Comparative
+Superlative
+
+## Talk about
+
+Yourself (21-25)
+House (16-20)
+Family (11-15)
+Routine (6-10)
+Future (1-5)

@@ -1,7 +1,7 @@
 ---
 title: Questions
 layout: revealjs-vocabulary
-category: warm-up
+category: structure
 script: 
 - Você é casado.
 - Eles estão bem.
