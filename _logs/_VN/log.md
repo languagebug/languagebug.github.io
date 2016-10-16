@@ -61,3 +61,30 @@ cama elástica = trampoline
 06/10/2016
 
 Governanta = housekeeper
+
+migraine = enxaqueca
+dutch = people from holland
+"there will be a big run", not "have a big run"
+"we're all booked" = estamos com todos os quartos ocupados
+"get along well" = se dar bem
+"I have Mondays off" = folgo às segundas
+housekeeper = governanta
+madhouse = manicômio (expressão um pouco vulgar)
+"do the paperwork" = preencher a papelada
+role = função, papel
+"put effort into (learning)" = se esforçar para
+"I'm used to working in Sao Paulo" = estar acostumada
+until / up tp = até
+factory = fabrica
+series = série
+tv show = programa de TV
+to last = durar
+main = principal
+subtitles = legendas
+podcast
+
+# Aula 5
+11/10/2016
+
+# Aula 6
+12/10/2016

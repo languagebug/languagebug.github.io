@@ -4,7 +4,6 @@ layout: revealjs-phonics
 script:
 - "/m/"
 examples:
-- mãe
 - mother
 - map
 - mop

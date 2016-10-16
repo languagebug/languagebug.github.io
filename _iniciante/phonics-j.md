@@ -4,12 +4,9 @@ layout: revealjs-phonics
 script:
 - "/j/"
 examples:
-- já
-- jóia
-- jumento
 - django
 - jazz
-- (d)jazz
+- jazz
 - juice
 - germs
 - fridge

@@ -4,14 +4,10 @@ layout: revealjs-phonics
 script:
 - "/l/"
 examples:
-- lâmpada
-- lamp
 - lap
-- mental(âmpada)
-- mental(âm)
+- lamp
+- live
 - mental
-- dental(âmpada)
-- dental(âm)
 - dental
 - old
 ---
