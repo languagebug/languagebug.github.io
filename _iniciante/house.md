@@ -23,7 +23,7 @@ script:
 - On the right there's ___,
 - and on the left there's ___.
 - Near my (house/building) there (is/are) ___. 
-- What I like most about my house/apartment is ___.
-- What I like the least about my house/apartment is ___. 
+- What I most like about my house/apt is ___.
+- What I least like about my house/apt is ___. 
 - My neighborhood is good/bad/OK. 
 ---
