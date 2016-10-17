@@ -18,7 +18,7 @@ script:
 - I'm (married/single/divorced/widowed). 
 - I am of _____ descent. 
 - I like to wear (casual/formal) clothes. 
-- I (go/went) to _____ (University. 
+- I (go/went) to _____ University. 
 - I'm taking English lessons.  
 - I'm a(n) _____ (profession).  
 - I majored in _____.  
