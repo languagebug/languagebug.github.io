@@ -8,7 +8,7 @@ script:
 - My address is ___. 
 - My (house/apartment) is (big/small).  
 - Its color is ___. 
-- In my house there (is・are) ___ rooms. 
+- In my house/apartment there (is・are) ___ rooms. 
 - There (is・are) ___ bedroom(s). 
 - There (is・are) ___ bathroom(s). 
 - There (is・are) also ___ kitchen(s), 
@@ -22,7 +22,7 @@ script:
 - In the back of my (house/building), there's ____. 
 - On the right there's ___,
 - and on the left there's ___.
-- Near my (house/building) there (is/are) ___. 
+- Near my (house/building) there (is/are) a(n) ___. 
 - What I like the most about my house/apt is ___.
 - What I like the least about my house/apt is ___. 
 - My neighborhood is good/bad/OK. 

@@ -23,7 +23,6 @@ script:
 - I'm a(n) _____ (profession).  
 - I majored in _____.  
 - I work at  _____ (company). 
-- I work as a(n) _____ (job).
 - I have worked there for _____. 
 - I'm not employed at the moment.   
 - I look like my (father/mother). 
