@@ -44,4 +44,13 @@ script2:
     action
     activation
     attention
+script3:
+  - teacher
+  - player
+  - worker
+  - reader
+  - loser
+  - thinker
+  - buyer
+  - driver
 ---

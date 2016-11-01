@@ -9,8 +9,8 @@ script:
 - I'm number ___ of a family of ___. 
 - I have ___ (younger/older) brother(s)
 - and  ___ (younger/older) sister(s). 
-- My father's name is ___. 
-- My mother's name is ___. 
+- My father's name (is/was) ___. 
+- My mother's name (is/was) ___. 
 - My (brother's/sister's)  name is ___.
 - My (brother's/sister's)  name is ___. 
 - My father (is/was) a(n) ___. 

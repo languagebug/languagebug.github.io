@@ -30,3 +30,16 @@ layout: revealjs-default
 		{% endfor %}
 	</section>
 {% endif %}
+
+{% if page.script3 %}
+	<section>
+		{% for item in page.script3 %}
+	    	{{ item }} •
+		{% endfor %}
+	</section>
+	<section>
+		{% for item in page.script3 %}
+		    <span class="fragment"> {{ item }} •</span>
+		{% endfor %}
+	</section>
+{% endif %}

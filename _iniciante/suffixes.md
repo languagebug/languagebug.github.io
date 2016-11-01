@@ -11,4 +11,5 @@ script:
 - -ity
 - -ence
 - -tion
+- -er
 ---
