@@ -1,0 +1,36 @@
+---
+title: "ALL"
+layout: revealjs-default
+---
+{% for item in site.iniciante %}
+  {% if item.layout == "revealjs-talkabout" %}
+    <section class="review">
+        <ol>
+            {% for i in (0..9) %}
+            <li class="small">{{ item.script[i)] }}</li>
+            {% endfor %}
+        </ol>
+    </section>
+    <section class="review">
+        <ol start="11">
+            {% for i in (10..19) %}
+            <li>{{ item.script[i)] }}</li>
+            {% endfor %}
+        </ol>
+    </section>
+    <section class="review">
+        <ol start="21">
+            {% for i in (20..29) %}
+            <li>{{ item.script[i)] }}</li>
+            {% endfor %}
+        </ol>
+    </section>
+    <section class="review">
+        <ol start="31">
+            {% for i in (30..34) %}
+            <li>{{ item.script[i)] }}</li>
+            {% endfor %}
+        </ol>
+    </section>
+  {% endif %}
+{% endfor %}

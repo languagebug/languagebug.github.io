@@ -10,29 +10,27 @@ script:
 - Hi everyone!
 - How are you?
 - Hi, how are you?
-- How are you doing?
-- How do you do?
 - How is it going?
 - Good morning!
 - Good afternoon!
 - Good evening!
 - Good night!
-- Hi, my name is ___.
 - Nice to meet you!
 - Nice to meet you too!
-- It was nice meeting you!
 script2:
+- Hi, my name is ___.
+- It was nice meeting you!
 - I would like to introduce myself, my name is ___.
+- It's such a pleasure to meet you.
 - Let me introduce you to ___.
-- It's (such) a pleasure to meet you.
-- It's (such) an honor to meet you.
-- I've been looking forward to meeting you ___.
-- How have you been?
-- What have you been up to?
 - Long time no see!
 - Good to see you.
 - What's new?
 - What's up?
-- What's going on?
 - Not much.
+script3:
+- How are you doing?
+- What have you been up to?
+- How have you been?
+- I've been looking forward to meeting you ___.
 ---
