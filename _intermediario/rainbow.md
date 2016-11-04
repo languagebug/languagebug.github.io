@@ -1,0 +1,11 @@
+---
+title: Rainbow Passage
+layout: revealjs-vocabulary
+category: warm-up
+script: 
+- "When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. The rainbow is a division of white light into many beautiful colors. These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. There is, according to legend, a boiling pot of gold at one end."
+script2:
+- "When the <span style='color:red'>sunlight</span> strikes <span style='color:red'>raindrops</span> in the <span style='color:red'>air</span>, they act as a <span style='color:red'>prism</span> and form a <span style='color:red'>rainbow</span>. The <span style='color:red'>rainbow</span> is a division of white light into many beautiful <span style='color:red'>colors</span>. These take the <span style='color:red'>shape</span> of a long round <span style='color:red'>arch</span>, with its <span style='color:red'>path</span> high above, and its two <span style='color:red'>ends</span> apparently beyond the <span style='color:red'>horizon</span>. There is  according to <span style='color:red'>legend</span>, a boiling pot of <span style='color:red'>gold</span> at one <span style='color:red'>end</span>."
+script3:
+- "When the <span style='color:red'>sunlight</span> strikes <span style='color:red'>raindrops</span> in the <span style='color:red'>air</span>, they <span style='color:green'>act</span> as a <span style='color:red'>prism</span> and form a <span style='color:red'>rainbow</span>. The <span style='color:red'>rainbow</span> is a division of white light into many beautiful <span style='color:red'>colors</span>. These take the <span style='color:red'>shape</span> of a long round <span style='color:red'>arch</span>, with its <span style='color:red'>path</span> high above, and its two <span style='color:red'>ends</span> apparently beyond the <span style='color:red'>horizon</span>. There is  according to <span style='color:red'>legend</span>, a boiling pot of <span style='color:red'>gold</span> at one <span style='color:red'>end</span>."
+---

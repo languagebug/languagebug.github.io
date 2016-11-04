@@ -25,3 +25,5 @@ collections:
     output: true
   avancado:
     output: true
+  intermediario:
+    output: true

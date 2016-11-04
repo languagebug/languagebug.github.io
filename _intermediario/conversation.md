@@ -1,0 +1,66 @@
+---
+title: Conversation
+layout: revealjs-talkabout
+quantity: 4
+script: 
+- Do you always eat healthy food?
+- Do you catch a cold more than once a year?
+- Do you drink a lot?
+- Do you eat a lot of vegetables?
+- Do you eat  lots of fruits?
+- Do you eat vegetables every day?
+- Do you exercise? How often?
+- Do you go to the dentist twice a year?
+- Do you have a lot of stress?
+- Do you have any allergies?
+- What kind of music do you like?
+- What kinds of musics don’t you like?
+- Do you like movies?
+- What are your favorite kinds of programs or shows?
+- Who are your favorite actors?
+- Do you like programs or show from other countries as well?
+- Do you like actors from other countries as well? If so, who?
+- What kinds of programs or which actors don’t you like?
+- What are your favorite kinds of movies?
+- What are your favorite kinds of sports?
+- What are your favorite kinds of books?
+- Do you use the internet for fun or education?
+- What are the sites you most commonly access?
+- What is the best thing about the internet?
+- What problem does the internet create? What problems does it solve?
+- Is it expensive to access the internet on a cellphone in your country?
+- Do you think it is easy to buy illegal drugs where you live?
+- Why do you think people start using drugs?
+- Do you think alcohol is a drug?
+- At what age should it be legal to drink and smoke?
+- Have you ever used a prescription drug without a prescription?
+- Are some parts of this city considered more dangerous than others? Which parts?
+- Do you always lock your house? How about your car?
+- Do you know someone who has been a victim of  a violent crime?
+- Do you think gun control is a good idea? Explain.
+- Have you ever been a victim of crime? How about others in your family?
+- Do you think your country is a safe place to live? Why or why not?
+- Would you move to a place far from your family and friends to be with the person you loved?
+- Is it common for couples to live together before marriage in your country?
+- Would you want to live with someone before marriage? Why or why not?
+- Do you think that these types of relationships can be successful?
+- Why do people use terror?
+- What should be done to prevent terrorism?
+- Have you been a victim of terrorism?
+- Are you afraid of traveling because of terrorist activities?
+- Why do you think discrimination exists?
+- What should be done to stop discrimination?
+- Do you like your hometown? Why or why not?
+- How often do you eat out?
+- Where do you usually go when you eat out?
+- How much do you usually pay when you eat out?
+- Who do you usually go with when you eat out?
+- What can you do to prepare in advance for a disaster?
+- What are some essential things you would need in your house in order to be prepared for a disaster?
+- Do you think people should recycle newspapers? Why or why not?
+- What are some ways that you can reduce pollution in this country?
+- Do you think it’s acceptable for parents to use corporal punishment as a means of discipline?
+- Is there public assistance in your country?
+- What are some things people can do to eliminate discrimination and prejudice?
+- What do you think is the most serious problem in the world?
+---
