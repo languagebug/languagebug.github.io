@@ -1,0 +1,18 @@
+---
+layout: revealjs-default
+---
+
+<section>
+    <h2>VIDEO</h2>
+    <p>{{ page.title }}</p>
+</section>
+
+<section>
+<video data-autoplay src="videos/{{ page.source }}.mp4" controls loop>
+</video>
+</section>
+<section>
+	<p style="text-align: left;">{{ page.transcription }}</p>
+	<audio data-autoplay src="videos/{{ page.source }}.mp3" controls loop>
+	</audio>
+</section>

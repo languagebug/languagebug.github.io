@@ -21,6 +21,24 @@ title: Intermediário
 			<li><a href="{{ item.url }}">{{ item.title }}</a></li>
 		{% endif %}
 	{% endfor %}
+<li class="ul-header">Video:</li>
+	{% for item in site.intermediario %}
+		{% if item.layout == "revealjs-video" %}
+			<li><a href="{{ item.url }}">{{ item.title }}</a></li>
+		{% endif %}
+	{% endfor %}
+<li class="ul-header">Audio:</li>
+	{% for item in site.intermediario %}
+		{% if item.layout == "revealjs-audio" %}
+			<li><a href="{{ item.url }}">{{ item.title }}</a></li>
+		{% endif %}
+	{% endfor %}
+<li class="ul-header">Mini-thesis:</li>
+	{% for item in site.intermediario %}
+		{% if item.layout == "revealjs-mini-thesis" %}
+			<li><a href="{{ item.url }}">{{ item.title }}</a></li>
+		{% endif %}
+	{% endfor %}
 <li class="ul-header">Talk about:</li>
 	{% for item in site.intermediario %}
 		{% if item.layout == "revealjs-talkabout" %}
