@@ -11,6 +11,7 @@ script:
 - I grew up in _____.  
 - My eyes are _____. 
 - My hair is _____. 
+- My favorite color is _____.
 - I currently live in _____. 
 - I'm _____ feet tall. 
 - My address is _____. 

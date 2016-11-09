@@ -14,7 +14,6 @@ script:
 - Do you have a lot of stress?
 - Do you have any allergies?
 - What kind of music do you like?
-- What kinds of musics don’t you like?
 - Do you like movies?
 - What are your favorite kinds of programs or shows?
 - Who are your favorite actors?

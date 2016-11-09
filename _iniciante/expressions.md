@@ -31,24 +31,15 @@ script2:
 - I'd like to go for a walk.
 - If you need my help, please let me know.
 - I'll call you when I leave.
-- I'll take it.
 script3:
 - Be careful driving!
 - New York is very different from Boston.
 - Everyone knows it.
 - He's coming soon!
-- He's very annoing!
-- I don't know how to use it.
-- I don't want it.
-- I don't want that.
+- He's very annoying!
 - I feel good.
 - I hope you and your wife have a nice trip.
-- I know.
-- I lost my watch.
 - I love you.
-- I think it tastes good.
-- I think it is very good.
-- I thought the clothes were cheaper.
 - I was about to leave the restaurant when my friends arrived.
 - I'll come back later.
 - I'll pay.
