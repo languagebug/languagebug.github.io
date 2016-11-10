@@ -17,7 +17,7 @@ title: Intermediário
 	{% endfor %}
 <li class="ul-header">Structure:</li>
 	{% for item in site.intermediario %}
-		{% if item.layout == "revealjs-structure" %}
+		{% if item.category == "structure" %}
 			<li><a href="{{ item.url }}">{{ item.title }}</a></li>
 		{% endif %}
 	{% endfor %}
