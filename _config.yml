@@ -27,3 +27,5 @@ collections:
     output: true
   intermediario:
     output: true
+  images:
+    output: true

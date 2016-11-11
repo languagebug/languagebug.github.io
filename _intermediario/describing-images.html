@@ -7,43 +7,34 @@ category: structure
 	<h1>Images</h1>
 </section>
 <section>
-	<h2>Do</h2>
+	<h2>Best Practices</h2>
 	<ul>
-		<li>Look at your picture carefully and take a few moments to think before you start talking.</li>
-		<li>Talk for all the time you are given. If you have one minute to do the task, use every second.</li>
-		<li>Practise the useful language below so you can explain which part of the picture you are talking about.</li>
+		<li>Look at your picture carefully.</li>
+		<li>Think before you start talking.</li>
+		<li>Try to recall some useful words.</li>
+		<li>You won't remember everything.</li>
+		<li>Focus on the picture.</li>
+		<li>Talk for all the time you are given.</li>
+		<li>Take deep breaths whenever you need.</li>
 	</ul>
 </section>
-<section>
-	<h2>Don't</h2>
-	<ul>
-		<li>Panic if you don’t know the words for all the things in the picture. You don’t need to know all the words for everything in the picture if you know what to say when you don't know an exact word.</li>
-		<li>Get distracted and start talking about something else. Focus on the photo or picture.</li>
-		<li>Panic if your mind goes blank. Take a deep breath, look at the picture and start again.</li>
-	</ul>
+{% for item in site.images %}
+<section data-background-image="../images/files/{{ item.source }}.jpg">
+	<section>
+		&nbsp;
+	</section>
+	<section>
+		<h4 class="legenda">In the picture I can see ...</h4>
+	</section>
+	<section>
+		<h4 class="legenda">There is/are also ...</h4>
+	</section>
+	<section>
+		<h5 class="legenda">The man is ...ing</h5>
+		<br>
+		<h5 class="legenda">The people are ...ing</h5>
+		<br>
+		<h5 class="legenda">It's raining.</h5>
+	</section>
 </section>
-<section data-background-image="images/1.jpg">
-	<span style="background-color: white; position: relative; top: -250px">In the picture I can see ...</span>
-	<span style="background-color: white; position: relative; top: -250px">There’s / There are ... </span>
-	<span style="background-color: white; position: relative; top: -250px">There isn’t a ... / There aren’t any ...</span>
-</section>
-<section data-background-image="images/2.jpg">
-	<span style="background-color: white; position: relative; top: -250px">In the picture I can see ...</span>
-	<span style="background-color: white; position: relative; top: -250px">There’s / There are ... </span>
-	<span style="background-color: white; position: relative; top: -250px">There isn’t a ... / There aren’t any ...</span>
-</section>
-<section data-background-image="images/3.jpg">
-	<span style="background-color: white; position: relative; top: -250px">In the picture I can see ...</span>
-	<span style="background-color: white; position: relative; top: -250px">There’s / There are ... </span>
-	<span style="background-color: white; position: relative; top: -250px">There isn’t a ... / There aren’t any ...</span>
-</section>
-<section data-background-image="images/4.jpg">
-	<span style="background-color: white; position: relative; top: -250px">In the picture I can see ...</span>
-	<span style="background-color: white; position: relative; top: -250px">There’s / There are ... </span>
-	<span style="background-color: white; position: relative; top: -250px">There isn’t a ... / There aren’t any ...</span>
-</section>
-<section data-background-image="images/5.jpg">
-	<span style="background-color: white; position: relative; top: -250px">In the picture I can see ...</span>
-	<span style="background-color: white; position: relative; top: -250px">There’s / There are ... </span>
-	<span style="background-color: white; position: relative; top: -250px">There isn’t a ... / There aren’t any ...</span>
-</section>
+{% endfor %}

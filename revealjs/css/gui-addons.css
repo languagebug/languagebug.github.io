@@ -1,0 +1,7 @@
+/* Para Describing Images */
+.legenda {
+  background-color: white; 
+  position: relative; 
+  top: 250px;
+  display: inline;
+}
