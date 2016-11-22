@@ -8,3 +8,6 @@ http://lp.inglesonjerry.com.br/?utm_source=Afiliado&utm_campaign=Afiliados&utm_m
 6:16-10:58
 
 http://learnenglishteens.britishcouncil.org/exams/speaking-exams/describe-photo-or-picture
+
+http://www.learn-english-today.com/quotes/quotations1.html
+

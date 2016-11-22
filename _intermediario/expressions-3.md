@@ -18,6 +18,4 @@ script:
 - That's enough.
 - That's it.
 - That's not fair.
-- That's too bad.
-- That's too many.
 ---

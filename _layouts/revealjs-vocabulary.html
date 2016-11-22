@@ -12,21 +12,11 @@ layout: revealjs-default
 	    {{ item }} •
 	{% endfor %}
 </section>
-<section>
-	{% for item in page.script %}
-	    <span class="fragment"> {{ item }} •</span>
-	{% endfor %}
-</section>
 
 {% if page.script2 %}
 	<section>
 		{% for item in page.script2 %}
 	    	{{ item }} •
-		{% endfor %}
-	</section>
-	<section>
-		{% for item in page.script2 %}
-		    <span class="fragment"> {{ item }} •</span>
 		{% endfor %}
 	</section>
 {% endif %}
@@ -35,11 +25,6 @@ layout: revealjs-default
 	<section>
 		{% for item in page.script3 %}
 	    	{{ item }} •
-		{% endfor %}
-	</section>
-	<section>
-		{% for item in page.script3 %}
-		    <span class="fragment"> {{ item }} •</span>
 		{% endfor %}
 	</section>
 {% endif %}

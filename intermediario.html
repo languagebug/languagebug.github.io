@@ -45,10 +45,16 @@ title: Intermediário
 			<li><a href="{{ item.url }}">{{ item.title }}</a></li>
 		{% endif %}
 	{% endfor %}
-	<li><a href="iniciante/talk-about-it-all.html">Iniciante Completo!</a></li>
+	<li><a href="iniciante/talk-about-it-all.html"><strong>(FULL)</strong> Yourself</a></li>
 <li class="ul-header">Phonics:</li>
 	{% for item in site.intermediario %}
-		{% if item.layout == "revealjs-phonics" %}
+		{% if item.category == "phonics" %}
+			<li><a href="{{ item.url }}">{{ item.title }}</a></li>
+		{% endif %}
+	{% endfor %}
+<li class="ul-header">Sentences:</li>
+	{% for item in site.intermediario %}
+		{% if item.layout == "revealjs-sentences" %}
 			<li><a href="{{ item.url }}">{{ item.title }}</a></li>
 		{% endif %}
 	{% endfor %}
@@ -56,7 +62,3 @@ title: Intermediário
 	<li>
 		<a href="https://docs.google.com/presentation/d/1eb_I_noamsuZXuSa1_k1et1SanNfGQkFyoAfhzbcVlY/present#slide=id.p13">Numbers</a>
 	</li>
-<li class="ul-header">Próximos passos:</li>
-	<li>Learning Map</li>
-	<li>Repetition (A+B)</li>
-</ul>
