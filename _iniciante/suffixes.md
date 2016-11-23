@@ -12,4 +12,6 @@ script:
 - -ence
 - -tion
 - -er
+- -less
+- -ful
 ---

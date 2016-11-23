@@ -1,5 +1,5 @@
 ---
-title: "Short /ă/"
+title: "ă"
 layout: revealjs-phonics
 script:
 - "/ă/"

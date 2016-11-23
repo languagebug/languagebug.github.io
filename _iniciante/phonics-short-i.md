@@ -1,5 +1,5 @@
 ---
-title: "Short /ĭ/"
+title: "ĭ"
 layout: revealjs-phonics
 script:
 - "/ĭ/"

@@ -17,6 +17,7 @@ script:
 - Personalização.
 - Não corrija os outros!
 script2:
+- Não se compare com os outros.
 - Não se preocupe, você vai ver isso de novo.
 - Não é preciso escrever.
 - Você perde o foco com exemplos demais.

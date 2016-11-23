@@ -1,5 +1,5 @@
 ---
-title: "Short /ĕ/"
+title: "ĕ"
 layout: revealjs-phonics
 script:
 - "/ĕ/"

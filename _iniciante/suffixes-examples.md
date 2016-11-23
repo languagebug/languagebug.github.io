@@ -46,11 +46,20 @@ script2:
     attention
 script3:
   - teacher
-  - player
-  - worker
-  - reader
-  - loser
-  - thinker
-  - buyer
-  - driver
----
+    player
+    worker
+    reader
+    loser
+    thinker
+    buyer
+    driver
+  - nameless
+    endless
+    homeless
+    useless
+    heartless
+    priceless
+  - careful    
+    colourful   
+    powerful
+    useful 

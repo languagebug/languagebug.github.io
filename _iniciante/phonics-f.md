@@ -1,5 +1,5 @@
 ---
-title: "/f/"
+title: f
 layout: revealjs-phonics
 script:
 - "/f/"

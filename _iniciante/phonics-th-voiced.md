@@ -1,8 +1,8 @@
 ---
-title: Voiced th
+title: "&#xF0;"
 layout: revealjs-phonics
 script:
-- "Voiced /th/"
+- "/&#xF0;/"
 examples:
 - these 
 - the 

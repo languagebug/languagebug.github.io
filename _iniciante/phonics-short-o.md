@@ -1,5 +1,5 @@
 ---
-title: "Short /ŏ/"
+title: "ŏ"
 layout: revealjs-phonics
 script:
 - "/ŏ/"

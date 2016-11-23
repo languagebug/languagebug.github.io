@@ -11,3 +11,5 @@ http://learnenglishteens.britishcouncil.org/exams/speaking-exams/describe-photo-
 
 http://www.learn-english-today.com/quotes/quotations1.html
 
+
+other/another

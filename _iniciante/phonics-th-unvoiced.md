@@ -1,5 +1,5 @@
 ---
-title: Unvoiced th
+title: th
 layout: revealjs-phonics
 script:
 - "Unvoiced /th/"

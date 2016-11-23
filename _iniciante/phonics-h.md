@@ -1,5 +1,5 @@
 ---
-title: "/h/"
+title: h
 layout: revealjs-phonics
 script:
 - "/h/"
