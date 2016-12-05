@@ -1,6 +1,7 @@
 ---
 title: Used to
 layout: revealjs-structure
+category: structure
 script:
 - I'm used to ___-ing.
 - I was used to ___-ing.

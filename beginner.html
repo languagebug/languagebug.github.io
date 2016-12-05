@@ -1,35 +1,35 @@
 ---
 layout: default
-title: Iniciante
+title: Beginner
 ---
 <ul>
 <li class="ul-header">Method:</li>
-	{% for item in site.iniciante %}
+	{% for item in site.beginner %}
 		{% if item.category == "method" %}
 			<li><a href="{{ item.url }}">{{ item.title }}</a></li>
 		{% endif %}
 	{% endfor %}
 	<li class="ul-header">Warm-up:</li>
-	{% for item in site.iniciante %}
+	{% for item in site.beginner %}
 		{% if item.category == "warm-up" %}
 			<li><a href="{{ item.url }}">{{ item.title }}</a></li>
 		{% endif %}
 	{% endfor %}
 <li class="ul-header">Structure:</li>
-	{% for item in site.iniciante %}
-		{% if item.category == "structure" %}
+	{% for item in site.beginner %}
+		{% if item.layout == "revealjs-structure" %}
 			<li><a href="{{ item.url }}">{{ item.title }}</a></li>
 		{% endif %}
 	{% endfor %}
 <li class="ul-header">Talk about:</li>
-	{% for item in site.iniciante %}
+	{% for item in site.beginner %}
 		{% if item.layout == "revealjs-talkabout" %}
 			<li><a href="{{ item.url }}">{{ item.title }}</a></li>
 		{% endif %}
 	{% endfor %}
 	<li><a href="iniciante/talk-about-it-all.html">ALL!</a></li>
 <li class="ul-header">Phonics:</li>
-	{% for item in site.iniciante %}
+	{% for item in site.beginner %}
 		{% if item.layout == "revealjs-phonics" %}
 			<li><a href="{{ item.url }}">{{ item.title }}</a></li>
 		{% endif %}

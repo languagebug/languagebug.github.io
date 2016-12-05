@@ -1,0 +1,150 @@
+---
+title: "[Warm-up Pack]"
+layout: revealjs-vocabulary
+category: warm-up
+script: 
+- young
+- old
+- tall
+- short
+- happy
+- sad
+- fat
+- thin
+- rich
+- poor
+- strong
+- weak
+- single
+- married
+- handsome
+- ugly
+- pretty
+- blond
+- brunette
+- healthy
+- sick
+- fine
+- not well
+script2: 
+- always
+- never
+- almost always
+- almost never
+- sometimes
+- usually
+- generally
+script3:
+- here
+- there
+- over there
+- at home
+- in my house
+- at school
+- near here
+- far from here
+- near
+- far
+script4:
+- alone
+- by myself
+- with my (sister)
+- with a friend
+- with a friend of mine
+- with a group
+- with classmates
+- with co-workers
+script5:
+- visit
+- want
+- watch
+- work
+- travel
+- study
+- live
+- finish
+- need
+- help
+- play
+- clean
+- cook
+- miss
+- rest
+- stay
+- like
+- enjoy
+script6:
+- eat
+- buy
+- come
+- drive
+- find
+- give
+- get
+- have
+- know
+- leave
+- lose
+- pay
+- read
+- say
+- teach
+- think
+- go
+script7:
+- ate
+- bought
+- came
+- drove
+- found
+- gave
+- got
+- had
+- knew
+- left
+- lost
+- paid
+- read
+- said
+- taught
+- thought
+- went
+script8:
+- Hey!
+- Hi!
+- Hey there!
+- Hi there!
+- Hi everyone!
+- How are you?
+- Hi, how are you?
+- How is it going?
+- Good morning!
+- Good afternoon!
+- Good evening!
+- Good night!
+- Nice to meet you!
+- Nice to meet you too!
+script9:
+- Hi, my name is ___.
+- It was nice meeting you!
+- I would like to introduce myself, my name is ___.
+- It's such a pleasure to meet you.
+- Let me introduce you to ___.
+- Long time no see!
+- Good to see you.
+- What's new?
+- What's up?
+- Not much.
+script10:
+- Who
+- Where
+- When
+- Why
+- What
+- Which
+- How
+- How much
+- How many
+- How often
+- How far
+---

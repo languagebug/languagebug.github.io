@@ -13,3 +13,28 @@ http://www.learn-english-today.com/quotes/quotations1.html
 
 
 other/another
+
+  - in
+    in a
+    in the
+  - of
+    of a
+    of the
+  - from
+    from a
+    from the
+  - at
+    at a
+    at the
+  - on
+    on a
+    on the
+
+
+  - a lot of
+  - many
+    a few
+    few
+  - much
+    a little
+    little

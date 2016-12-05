@@ -29,3 +29,5 @@ collections:
     output: true
   images:
     output: true
+  beginner:
+    output: true
