@@ -1,0 +1,124 @@
+---
+title: Prefixes
+layout: revealjs-default
+category: warm-up
+suffixes1:
+- name: un
+  examples: unadmissible, unhappy, unblock, unzip
+- name: im
+  examples: imperfect, immoral, immaterial, impredictable, immutable, 
+- name: dis
+  examples: disagree, disapprove, disbelieve, dissociate
+suffixes2:
+- name: mis
+  examples: miscalculate, misdial, misbehave, misdeliver, miscopy, 
+- name: 
+  examples: 
+- name: 
+  examples: 
+suffixes3:
+- name: 
+  examples: 
+- name: 
+  examples: 
+- name: 
+  examples: 
+suffixes4:
+- name: 
+  examples: 
+- name: 
+  examples: 
+- name: 
+  examples: 
+---
+<section>
+	<h1>Suffixes</h1>
+</section>
+<section>
+<table>
+	<tr>
+		<td>-ing</td>
+		<td>-ed</td>
+		<td>-ly</td>
+	</tr>
+	<tr class="fragment">
+		<td>-ible</td>
+		<td>-able</td>
+		<td>-ity</td>
+	</tr>
+	<tr class="fragment">
+		<td>-ence</td>
+		<td>-tion</td>
+		<td>-er</td>
+	</tr>
+	<tr class="fragment">
+		<td>-less</td>
+		<td>-ful</td>
+		<td>-ness</td>
+	</tr>
+</table>
+</section>
+<section>
+	<table>
+{% for suffixes1 in page.suffixes1 %}
+		<tr>
+			<th>{{ suffixes1.name }}-</th>
+			<td>
+				{{ suffixes1.examples }}
+			</td>
+		</tr>
+{% endfor %}
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+	</table>
+</section>
+<section>
+	<table>
+{% for suffixes2 in page.suffixes2 %}
+		<tr>
+			<th>{{ suffixes2.name }}-</th>
+			<td>
+				{{ suffixes2.examples }}
+			</td>
+		</tr>
+{% endfor %}
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+	</table>
+</section>
+<section>
+	<table>
+{% for suffixes3 in page.suffixes3 %}
+		<tr>
+			<th>{{ suffixes3.name }}-</th>
+			<td>
+				{{ suffixes3.examples }}
+			</td>
+		</tr>
+{% endfor %}
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+	</table>
+</section>
+<section>
+	<table>
+{% for suffixes4 in page.suffixes4 %}
+		<tr>
+			<th>{{ suffixes4.name }}-</th>
+			<td>
+				{{ suffixes4.examples }}
+			</td>
+		</tr>
+{% endfor %}
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+	</table>
+</section>
