@@ -12,4 +12,8 @@ script:
 - "Ability is nothing without opportunity. (Napoleon Bonaparte)"
 - "The heart has reasons that reason does not understand. (Jacques Bossuet)"
 - "Never interrupt your enemy when he is making a mistake. (Napoleon Bonaparte)"
+- "You can do anything, but not everything. (David Allen)"
+- "The richest man is not he who has the most, but he who needs the least. (Unknown Author)"
+- "Courage is not the absence of fear, but rather the judgement that something else is more important than fear. (Ambrose Redmoon)"
+- "Always forgive your enemies; nothing annoys them so much. (Oscar Wilde)"
 ---
