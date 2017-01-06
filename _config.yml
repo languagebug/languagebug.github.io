@@ -31,3 +31,5 @@ collections:
     output: true
   beginner:
     output: true
+  coaching:
+    output: true
