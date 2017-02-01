@@ -8,7 +8,7 @@ examples:
 - bet
 - bed
 - men
-- ea as in bread
+- bread
 - head
 - meadow
 ---
