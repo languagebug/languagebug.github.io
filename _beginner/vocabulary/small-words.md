@@ -1,5 +1,5 @@
 ---
-title: How frequent?
+title: Small Words
 layout: revealjs-vocabulary
 category: warm-up
 script: 
@@ -10,4 +10,8 @@ script:
 - to
 - for
 - with
+- of
+- now
+- then
+- soon
 ---

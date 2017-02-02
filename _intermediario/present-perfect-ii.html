@@ -1,0 +1,104 @@
+---
+title: Present Perfect Part. II
+layout: revealjs-default
+category: structure
+intertitulos:
+  - O Present Perfect Tense é um tempo verbal diferente em inglês. 
+  - A tradução literal deste tempo verbal pode causar confusão.
+  - "É formado pelo verbo TO HAVE + passado particípio (comido, comprado, bebido)"
+  - Vamos primeiro praticar como ele é formado e depois quando é usado.
+casos:
+  - portugues: "Sempre + Passado"
+    exemplo: "Eu <strong>sempre</strong> trabalhei aqui."
+    traducao: "I have always worked here."
+    exercicio1: Eu sempre trabalhei em casa. 
+    exercicio2: Eu sempre morei nesta cidade.
+    exercicio3: Eu sempre comi muito.
+  - portugues: "Nunca + Passado"
+    exemplo: "Eu <strong>nunca</strong> fui aos Estados Unidos."
+    traducao: "I have never gone to the U.S."
+    exercicio1: Eu nunca estudei italiano.
+    exercicio2: Eu nunca disse isso.
+    exercicio3: Eu nunca comi mirtilo.
+pairs:
+  - participio: feito
+    participle: done
+  - participio: sido/estado
+    participle: been
+  - participio: comido
+    participle: eaten
+  - participio: ido
+    participle: gone
+  - participio: visto
+    participle: seen
+  - participio: estudado
+    participle: studied
+  - participio: trabalhdo
+    participle: worked
+  - participio: bebido
+    participle: drunk
+  - participio: pego
+    participle: taken
+  - participio: falado
+    participle: spoken
+  - participio: terminado
+    participle: finished
+  - participio: morado
+    participle: lived
+  - participio: conhecido
+    participle: known
+  - participio: encontrado
+    participle: met
+  - participio: mantido
+    participle: kept
+  - participio: aprendido
+    participle: learned
+  - participio: dito
+    participle: said
+  - participio: dito (a alguém)
+    participle: told
+  - participio: tido
+    participle: had 
+  - participio: saido
+    participle: left
+---
+
+<section>
+  <h1>{{ page.title }}</h1>
+</section>
+{% for intertitulos in page.intertitulos %}
+  <section>
+    {{ intertitulos }}
+  </section>
+{% endfor%}
+<section>
+  <ul>
+    {% for i in (0..9) %}
+      <li>Eu tenho <strong>{{ page.pairs[i].participio }}</strong>. <span class="fragment fade-out" data-fragment-index="1"> - {{ page.pairs[i].participle }}</li>
+    {% endfor %}
+  </ul>
+</section>
+<section>
+  <ul>
+    {% for i in (10..19) %}
+      <li>Eu tenho <strong>{{ page.pairs[i].participio }}</strong>. <span class="fragment fade-out" data-fragment-index="1"> - {{ page.pairs[i].participle }}</li>
+    {% endfor %}
+  </ul>
+</section>
+{% for casos in page.casos %}
+  <section>
+    <h1>{{ casos.portugues }}</h1>
+    <ul>
+      <li>{{ casos.exemplo }}</li>
+      <li>{{ casos.traducao }}</li>
+    </ul>
+  </section>
+  <section>
+    <h1>{{ casos.portugues }}</h1>
+    <ul>
+      <li>{{ casos.exercicio1 }}</li>
+      <li>{{ casos.exercicio2 }}</li>
+      <li>{{ casos.exercicio3 }}</li>
+    </ul>
+  </section>
+{% endfor %}
