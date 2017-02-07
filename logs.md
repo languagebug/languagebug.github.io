@@ -14,4 +14,10 @@ title: Relatórios
 		(<a href="https://docs.google.com/document/d/1bim0hy1ofQCqW2TO0t41pZeeVHnv9901LcHXOeXd_Rg/edit#" target="_blank">Texto</a>) 
 		(<a href="https://docs.google.com/spreadsheets/d/1SEqeqkaUG6S-gEvekPFNjPmjqcybb3WZCQ2flJsQhqM/edit#gid=910208345" target="_blank">Tabela</a>)
 	</li>
+	<li>
+		<a href="https://docs.google.com/spreadsheets/d/1ftAZEEaOtW9pQl88wNCyV1lK6hpiv4GoFtdgstPt7P0/edit#gid=910208345" target="_blank">Daniele</a>
+	</li>
+	<li>
+		<a href="https://docs.google.com/spreadsheets/d/19K-TQIa5NgIxUfqtcRhvCbK2wRS1LC41v04tDfrnZRU/edit#gid=910208345" target="_blank">Geórgia</a>
+	</li>
 </ul>

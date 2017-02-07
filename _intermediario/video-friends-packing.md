@@ -18,5 +18,5 @@ tr6: "so, I... I started packing, "
 tr7: "and then I realized:'What am I doing?"
 tr8: "I am lousy at packing!', right?"
 tr9: "But you love packing,"
-tr10: "so as a gift to you, on our last night, ta-da-a!"
+tr10: "so as a gift to you, on our last night, ta-da!"
 ---
