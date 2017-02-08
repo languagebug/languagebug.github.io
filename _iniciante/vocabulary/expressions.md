@@ -43,5 +43,4 @@ script3:
 - I was about to leave the restaurant when my friends arrived.
 - I'll come back later.
 - I'll pay.
-
 ---

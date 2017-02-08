@@ -1,0 +1,65 @@
+---
+title: Adjectives II
+layout: revealjs-vocabulary
+category: warm-up
+script: 
+- young
+- old
+- tall
+- short
+- happy
+- sad
+- fat
+- thin
+- rich
+- poor
+- strong
+- weak
+- single
+- married
+- handsome
+- ugly
+- pretty
+- blond
+- brunette
+- healthy
+- sick
+- fine
+- not well
+script2:
+- huge
+- big
+- small
+- tiny
+- high
+- low
+- clean
+- dirty
+- fancy
+- weird
+- good
+- bad
+- mean
+- dead
+- alive
+- easy
+- hard
+- angry
+- gentle
+- right
+- wrong
+- clever
+- smart
+- dumb
+- brave
+- lazy
+---
+
+- calm
+- silly
+- important
+- long
+- large
+- beautiful
+- little
+- adorable
