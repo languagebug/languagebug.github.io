@@ -4,10 +4,10 @@ layout: revealjs-structure
 script:
 - It's ___.
 - It was ___.
-- I will be ___.
+- It will be ___.
 - It's not ___.
 - It wasn't ___.
-- I won't be ___.
+- It won't be ___.
 examples:
 - important ...
 - great ...

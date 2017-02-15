@@ -11,7 +11,7 @@ examples:
 - Drive
 - Exercise
 - Want a cup of coffee
-- Live near heare
+- Live near here
 - Speak english
 - Like the Beatles
 - Have children

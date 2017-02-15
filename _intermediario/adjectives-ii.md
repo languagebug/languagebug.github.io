@@ -48,13 +48,13 @@ script2:
 - gentle
 - right
 - wrong
-- clever
 - smart
 - dumb
 - brave
 - lazy
 ---
 
+- clever
 - calm
 - silly
 - important
