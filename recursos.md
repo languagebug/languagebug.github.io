@@ -1,40 +1,38 @@
----
-layout: revealjs-default
----
-
-Expressions: Inglês do Jerry
+## Expressions: Inglês do Jerry
 http://lp.inglesonjerry.com.br/?utm_source=Afiliado&utm_campaign=Afiliados&utm_medium=SPprincipal&ref=S2349708V
-3:04-6:16
-6:16-10:58
 
+## Image Description
 http://learnenglishteens.britishcouncil.org/exams/speaking-exams/describe-photo-or-picture
 
+## Quotes
 http://www.learn-english-today.com/quotes/quotations1.html
 
+## Deleted Content
 
-other/another
+### Prepositions
 
-  - in
-    in a
-    in the
-  - of
-    of a
-    of the
-  - from
-    from a
-    from the
-  - at
-    at a
-    at the
-  - on
-    on a
-    on the
+- in
+- in a
+- in the
+- of
+- of a
+- of the
+- from
+- from a
+- from the
+- at
+- at a
+- at the
+- on
+- on a
+- on the
 
+### Quantifiers
 
-  - a lot of
-  - many
-    a few
-    few
-  - much
-    a little
-    little
+- a lot of
+- many
+- a few
+- few
+- much
+- a little
+- little

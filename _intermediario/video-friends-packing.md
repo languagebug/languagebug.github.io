@@ -3,6 +3,13 @@ title: Friends - Packing
 layout: revealjs-video
 source: "friends-packing"
 video-format: webm
+vocabulary:
+  - to pack
+  - to be packed
+  - mad
+  - to realize
+  - lousy
+  - gift
 transcription: "<strong>M:</strong> You're not packed! You're not packed even a little bit!<br>
 <strong>R:</strong> Surprise!<br>
 <strong>M:</strong> What?<br>

@@ -3,6 +3,12 @@ title: Julianne Moore - Still Alice
 layout: revealjs-video
 source: "julianne-moore-alice"
 video-format: webm
+vocabulary:
+  - you know
+  - feel like
+  - intellect
+  - to hang
+  - to reach
 transcription: "
 Well... it's not always the same... you know. I have a... have good days... bad days and...
 on my good days... I can... you know... almost pass for a normal person.

@@ -6,6 +6,12 @@ layout: revealjs-default
     <h2>VIDEO</h2>
     <p>{{ page.title }}</p>
 </section>
+<section>
+	<h3>Vocabulary</h3>
+	{% for item in page.vocabulary %}
+		{{ item }} &bullet;
+	{% endfor %}
+</section>
 
 <section>
 <video data-autoplay src="videos/{{ page.source }}.{{ page.video-format }}" controls loop>
@@ -17,16 +23,14 @@ layout: revealjs-default
 	</audio>
 </section>
 
-	{% for item in page.tr %}
-{% for i in (0..10) %}
-
-	<section>
+{% for i in (1..10) %}
+	{% if page.tr[i] %}
+		<section>
 		<p>{{ page.tr[i] }}</p>
 		<audio data-autoplay src="videos/{{ page.source }}-{{ i }}.mp3" controls loop>
 		</audio>
 	</section>
-	{% endfor %}
-
+	{% endif %}
 {% endfor %}
 
 <!-- <section>

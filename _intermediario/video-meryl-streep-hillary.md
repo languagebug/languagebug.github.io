@@ -3,6 +3,9 @@ title: Meryl Streep - Hillary
 layout: revealjs-video
 source: "meryl-streep-hillary"
 video-format: "mp4"
+vocabulary:
+  - to play
+  - lovely
 transcription: "<br>
 <strong>J: </strong>- So, would you play Hillary in a movie? <br>
 <strong>MS: </strong>- Oooooh, my god! I don't know! I don't know! 

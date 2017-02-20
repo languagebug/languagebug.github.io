@@ -16,4 +16,10 @@ script:
 - then
 - soon
 - later
+- other
+- another
+- many
+- few
+- much
+- little
 ---
