@@ -7,12 +7,30 @@ layout: revealjs-default
     <h1>{{ page.title }}</h1>
 </section>
 <section>
-	{{ page.p1 }}
-	{{ page.p2 }}
-	{{ page.p3 }}
-	{{ page.p4 }}
-	{{ page.p5 }}
+    <p>
+        {% for i in (0..10) %}
+                {% if page.paragraph[i] %}
+                    {{ page.paragraph[i] }}
+                {% endif %}
+        {% endfor %}
+    </p>
 </section>
+
+<!-- <section>
+    {{ page.p1 }}
+    {{ page.p2 }}
+    {{ page.p3 }}
+    {{ page.p4 }}
+    {{ page.p5 }}
+</section> -->
+{% for i in (0..10) %}
+    {% if page.paragraph[i] %}
+        <section>
+        <p>{{ page.paragraph[i] }}</p>
+    </section>
+    {% endif %}
+{% endfor %}
+<!-- </section>
 <section>
     <p>{{ page.p1 }}</p>
 </section>
@@ -27,4 +45,4 @@ layout: revealjs-default
 </section>
 <section>
     <p>{{ page.p5 }}</p>
-</section>
+</section> -->

@@ -41,10 +41,10 @@ script3:
 - at home
 - in my house
 - at school
-- near here
-- far from here
 - near
 - far
+- near here
+- far from here
 script4:
 - alone
 - by myself

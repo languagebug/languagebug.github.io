@@ -6,8 +6,235 @@ layout: revealjs-default
     <h2>Talk About Your</h2>
     <h1>{{ page.title }}</h1>
 </section>
-
-<section>
+{% if page.script[1] %}
+    <section>
+        <ul class="nobullet">
+            <li>1. {{ page.script[1] }}</li>
+            {% for i in (2..5) %}
+                {% if page.script[i] %}
+                    <li class="fragment">{{ i }}. {{ page.script[i] }}</li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </section>
+    <section class="review">
+        <ul class="nobullet">
+            {% for i in (1..5) %}
+                {% if page.script[i] %}
+                        <li>{{ i }}. {{ page.script[i] }}</li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </section>
+{% endif %}
+{% if page.script[6] %}
+    <section>
+        <ul class="nobullet">
+            <li>6. {{ page.script[6] }}</li>
+            {% for i in (7..10) %}
+                {% if page.script[i] %}
+                    <li class="fragment">{{ i }}. {{ page.script[i] }}</li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </section>
+    <section class="review">
+        <ul class="nobullet">
+            {% for i in (1..10) %}
+                {% if page.script[i] %}
+                        <li>{{ i }}. {{ page.script[i] }}</li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </section>
+{% endif %}
+{% if page.script[11] %}
+    <section>
+        <ul class="nobullet">
+            <li>11. {{ page.script[11] }}</li>
+            {% for i in (12..15) %}
+                {% if page.script[i] %}
+                    <li class="fragment">{{ i }}. {{ page.script[i] }}</li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </section>
+    <section class="review">
+        <ul class="nobullet">
+            {% for i in (1..10) %}
+                {% if page.script[i] %}
+                        <li>{{ i }}. {{ page.script[i] }}</li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </section>
+    <section class="review">
+        <ul class="nobullet">
+            {% for i in (11..15) %}
+                {% if page.script[i] %}
+                        <li>{{ i }}. {{ page.script[i] }}</li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </section>
+{% endif %}
+{% if page.script[16] %}
+    <section>
+        <ul class="nobullet">
+            <li>16. {{ page.script[16] }}</li>
+            {% for i in (17..20) %}
+                {% if page.script[i] %}
+                    <li class="fragment">{{ i }}. {{ page.script[i] }}</li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </section>
+    <section class="review">
+        <ul class="nobullet">
+            {% for i in (1..10) %}
+                {% if page.script[i] %}
+                        <li>{{ i }}. {{ page.script[i] }}</li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </section>
+    <section class="review">
+        <ul class="nobullet">
+            {% for i in (11..20) %}
+                {% if page.script[i] %}
+                        <li>{{ i }}. {{ page.script[i] }}</li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </section>
+{% endif %}
+{% if page.script[21] %}
+    <section>
+        <ul class="nobullet">
+            <li>21. {{ page.script[21] }}</li>
+            {% for i in (22..25) %}
+                {% if page.script[i] %}
+                    <li class="fragment">{{ i }}. {{ page.script[i] }}</li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </section>
+    <section class="review">
+        <ul class="nobullet">
+            {% for i in (1..10) %}
+                {% if page.script[i] %}
+                        <li>{{ i }}. {{ page.script[i] }}</li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </section>
+    <section class="review">
+        <ul class="nobullet">
+            {% for i in (11..20) %}
+                {% if page.script[i] %}
+                        <li>{{ i }}. {{ page.script[i] }}</li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </section>
+    <section class="review">
+        <ul class="nobullet">
+            {% for i in (21..25) %}
+                {% if page.script[i] %}
+                        <li>{{ i }}. {{ page.script[i] }}</li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </section>
+{% endif %}
+{% if page.script[26] %}
+    <section>
+        <ul class="nobullet">
+            <li>26. {{ page.script[26] }}</li>
+            {% for i in (27..30) %}
+                {% if page.script[i] %}
+                    <li class="fragment">{{ i }}. {{ page.script[i] }}</li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </section>
+    <section class="review">
+        <ul class="nobullet">
+            {% for i in (1..10) %}
+                {% if page.script[i] %}
+                        <li>{{ i }}. {{ page.script[i] }}</li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </section>
+    <section class="review">
+        <ul class="nobullet">
+            {% for i in (11..20) %}
+                {% if page.script[i] %}
+                        <li>{{ i }}. {{ page.script[i] }}</li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </section>
+    <section class="review">
+        <ul class="nobullet">
+            {% for i in (21..30) %}
+                {% if page.script[i] %}
+                        <li>{{ i }}. {{ page.script[i] }}</li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </section>
+{% endif %}
+{% if page.script[31] %}
+    <section>
+        <ul class="nobullet">
+            <li>31. {{ page.script[31] }}</li>
+            {% for i in (32..35) %}
+                {% if page.script[i] %}
+                    <li class="fragment">{{ i }}. {{ page.script[i] }}</li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </section>
+    <section class="review">
+        <ul class="nobullet">
+            {% for i in (1..10) %}
+                {% if page.script[i] %}
+                        <li>{{ i }}. {{ page.script[i] }}</li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </section>
+    <section class="review">
+        <ul class="nobullet">
+            {% for i in (11..20) %}
+                {% if page.script[i] %}
+                        <li>{{ i }}. {{ page.script[i] }}</li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </section>
+    <section class="review">
+        <ul class="nobullet">
+            {% for i in (21..30) %}
+                {% if page.script[i] %}
+                        <li>{{ i }}. {{ page.script[i] }}</li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </section>
+    <section class="review">
+        <ul class="nobullet">
+            {% for i in (31..35) %}
+                {% if page.script[i] %}
+                        <li>{{ i }}. {{ page.script[i] }}</li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </section>
+{% endif %}
+<!-- <section>
     <ol>
     {% for i in (0..4) %}
         <li class="fragment">{{ page.script[i)] }}</li>
@@ -173,4 +400,4 @@ layout: revealjs-default
         <li>{{ page.script[i)] }}</li>
         {% endfor %}
     </ol>
-</section>
+</section> -->

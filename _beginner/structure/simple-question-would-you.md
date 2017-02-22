@@ -1,11 +1,14 @@
 ---
-title: Simple Question (You)
+title: Simple Question (Would You)
 layout: revealjs-structure
 script:
 - Would you ___?
 - Yes, I would.
 - No, I wouldn't.
 examples:
+- visit India
+- like to live near the beach
+- study Japanese
 - eat dog's meat in China
 - drive to the Northeast of Brazil
 - give all your money to a homeless person

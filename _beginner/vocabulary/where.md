@@ -9,8 +9,8 @@ script:
 - At home
 - In my house
 - At school
-- Near here
-- Far from here
 - Near
 - Far
+- Near here
+- Far from here
 ---

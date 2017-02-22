@@ -5,3 +5,7 @@
   top: 250px;
   display: inline;
 }
+.reveal ul.nobullet {
+    list-style: none;
+    list-style-type: none;
+}

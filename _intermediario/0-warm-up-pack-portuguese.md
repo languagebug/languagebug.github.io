@@ -1,0 +1,139 @@
+---
+title: "[Warm-up Pack] in Portuguese"
+layout: revealjs-vocabulary
+category: warm-up
+script: 
+- jovem
+- velho
+- alto
+- baixo
+- feliz
+- triste
+- magro
+- rico
+- pobre
+- forte
+- fraco
+- solteiro
+- casado
+- bonito
+- feio
+- linda
+- loira
+- morena
+- saudável
+- doente
+- bem
+- não bem
+script2: 
+- sempre
+- nunca
+- quase sempre
+- quase nunca
+- às vezes
+- usualmente
+- geralmente
+script3:
+- aqui
+- lá
+- logo ali
+- em casa
+- na minha casa
+- na escola
+- perto
+- longe
+- perto daqui
+- longe daqui
+script4:
+- sozinho
+- comigo mesmo
+- com minha (irmã)
+- com meu (irmão)
+- com um amigo
+- com um amigo meu
+- com um grupo
+- com colegas de sala
+- com colegas de trabalho
+script5:
+- visitar
+- querer
+- assistir
+- trabalhar
+- viajar
+- estudar
+- viver
+- terminar
+- precisar de
+- ajudar
+- jogar
+- limpar
+- cozinhar
+- sentir falta de
+- descansar
+- ficar
+- gostar
+- aproveitar
+script6:
+- comer
+- comprar
+- vir
+- dirigir
+- encontrar
+- dar
+- pegar
+- ter
+- saber
+- sair
+- perder
+- pagar
+- ler
+- dizer
+- ensinar
+- pensar
+- ir
+script7:
+- comi
+- comprei
+- vim
+- dirigi
+- encontrei
+- dei
+- peguei
+- tive
+- soube
+- saí
+- perdi
+- paguei
+- li
+- disse
+- ensinei
+- fui
+script8:
+- Oi!
+- E aí!
+- Oi, todo mundo!
+- Oi, como vai você?
+- Bom dia!
+- Boa tarde!
+- Boa noitinha!
+- Boa noite!
+- Prazer em conhecer você!
+- Prazer em conhecer você também!
+- Foi legal te conhecer.
+- Oi, meu nome é ___.
+- Eu gostaria de me apresentar, meu nome é ___.
+- Há quanto tempo!
+- Bom te ver!
+script9:
+- Quem
+- Onde
+- Quando
+- Por que
+- O que
+- Qual
+- Como
+- Quanto
+- Quantos
+- Com que frequência
+- Quão longe
+---
