@@ -3,6 +3,7 @@ title: Crimes
 layout: revealjs-talkabout
 quantity: 4
 script: 
+- "&nbsp;"
 - Are some parts of this city considered more dangerous than others? 
 - Which parts?
 - Do you always lock your house? How about your car?

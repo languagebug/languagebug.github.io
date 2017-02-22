@@ -3,6 +3,7 @@ title: Eating Out
 layout: revealjs-talkabout
 quantity: 4
 script: 
+- "&nbsp;"
 - Do you like your hometown? Why or why not?
 - How often do you eat out?
 - Where do you usually go when you eat out?

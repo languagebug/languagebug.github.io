@@ -3,6 +3,7 @@ title: Hometown
 layout: revealjs-talkabout
 quantity: 4
 script: 
+- "&nbsp;"
 - I'm from ___.
 - My city is located in the State of ___ near ___.
 - It takes ___ to get to my city by car from ___. 

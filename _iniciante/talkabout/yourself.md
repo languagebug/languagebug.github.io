@@ -3,6 +3,7 @@ title: Yourself
 layout: revealjs-talkabout
 quantity: 4
 script: 
+- "&nbsp;"
 - My full name's _____. 
 - Everyone calls me _____. 
 - I'm _____ years-old.

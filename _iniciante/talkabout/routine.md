@@ -3,6 +3,7 @@ title: Routine
 layout: revealjs-talkabout
 quantity: 4
 script: 
+- "&nbsp;"
 - My daily routine? 
 - Well, my daily routine is pretty (busy/normal). 
 - On Weekdays, I ___ and ___.

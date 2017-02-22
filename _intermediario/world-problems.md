@@ -3,6 +3,7 @@ title: World Problems
 layout: revealjs-talkabout
 quantity: 4
 script: 
+- "&nbsp;"
 - What can you do to prepare in advance for a disaster?
 - What are some essential things you would need in your house in order to be prepared for a disaster?
 - Do you think people should recycle newspapers? Why or why not?

@@ -3,6 +3,7 @@ title: Culture
 layout: revealjs-talkabout
 quantity: 4
 script: 
+- "&nbsp;"
 - What kind of music do you like?
 - Do you like movies?
 - What are your favorite kinds of shows?

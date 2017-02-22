@@ -3,6 +3,7 @@ title: Terrorism
 layout: revealjs-talkabout
 quantity: 4
 script: 
+- "&nbsp;"
 - Why do people use terror?
 - What should be done to prevent terrorism?
 - Have you been a victim of terrorism?

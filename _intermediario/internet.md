@@ -3,6 +3,7 @@ title: Internet
 layout: revealjs-talkabout
 quantity: 4
 script: 
+- "&nbsp;"
 - Do you use the internet for fun or education?
 - What are the sites you most commonly access?
 - What is the best thing about the internet?
