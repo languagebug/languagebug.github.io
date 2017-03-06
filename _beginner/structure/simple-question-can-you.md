@@ -1,5 +1,5 @@
 ---
-title: Simple Question (Have you ever)
+title: Simple Question (Can you)
 layout: revealjs-structure
 script:
 - Can you ___?
