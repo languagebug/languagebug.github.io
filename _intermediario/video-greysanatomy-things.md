@@ -7,7 +7,7 @@ vocabulary:
   - symptoms
   - to die
   - without
-  - to dreeam
+  - to dream
 transcription: "<strong>C</strong>: What are your other symptoms?<br />
 <strong>M</strong>: Ok, there's the father thing, the mother thing, the sister thing... hmm, the dying and coming back to life thing<br />
 <strong>C</strong>: You have too many things...<br />

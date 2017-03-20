@@ -6,7 +6,7 @@ script:
 - "&nbsp;"
 - What kind of music do you like?
 - Do you like movies?
-- What are your favorite kinds of shows?
+- What are your favorite kinds of TV shows?
 - Who are your favorite actors?
 - Do you like programs from other countries as well?
 - Do you like actors from other countries as well? If so, who?

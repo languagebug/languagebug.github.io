@@ -2,10 +2,15 @@
 title: "News: Trayvon Martin"
 layout: revealjs-mini-thesis
 paragraph:
-- Five years ago, Trayvon Martin was killed in Florida.
-- The 17-year-old black teenager was shot by George Zimmerman.
-- Zimmerman was not a police officer but he had a gun anyway.
-- He was patrolling the streets for a group called Neighborhood Watch.
-- Trayvon was just a high school kid who was not doing anything that was against the law when he was killed.
-- Yet Sanford police would not arrest the man who shot him.
+- A new report says Burger King is hurting tropical forests. 
+- The hamburger chain buys a lot of soybeans.
+- It uses them to feed its cows and chickens.
+- The report says the beans are grown on land that used to be rainforest.
+- It says the forests were burned on purpose.
+- They were cleared to make room for soybean farms,. 
 ---
+
+
+
+
+

@@ -9,6 +9,7 @@ script:
 - baixo
 - feliz
 - triste
+- gordo
 - magro
 - rico
 - pobre
@@ -107,6 +108,7 @@ script7:
 - li
 - disse
 - ensinei
+- pensei
 - fui
 script8:
 - Oi!
