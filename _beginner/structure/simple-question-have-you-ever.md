@@ -11,7 +11,7 @@ examples:
 - Been to a theater
 - Watched a 3D movie
 - Worked in a restaurant
-- Traveld to Europe
+- Traveled to Europe
 - Studied Spanish
 - Missed your childhood
 - Played tennis
