@@ -1,6 +1,8 @@
 ---
 title: Simple Question (How often)
 layout: revealjs-structure
+category: questions
+structure: "How often do you"
 script:
 - How often do you ___?
 - I (frequency) ___.

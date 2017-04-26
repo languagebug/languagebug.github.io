@@ -1,6 +1,8 @@
 ---
 title: Simple Question (Would You)
 layout: revealjs-structure
+category: questions
+structure: "Would you"
 script:
 - Would you ___?
 - Yes, I would.

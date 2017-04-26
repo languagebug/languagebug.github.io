@@ -1,6 +1,8 @@
 ---
 title: Simple Question (Can you)
 layout: revealjs-structure
+category: questions
+structure: "Can you"
 script:
 - Can you ___?
 - Yes, I can.

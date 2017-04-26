@@ -1,6 +1,8 @@
 ---
 title: Simple Question (Have you ever)
 layout: revealjs-structure
+category: questions
+structure: "Have you ever"
 script:
 - Have you ever ___?
 - Yes, I have.
