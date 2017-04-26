@@ -1,6 +1,7 @@
 ---
 title: "News: SpaceX"
 layout: revealjs-mini-thesis
+vocabulary:
 - to fly
 - travelers
 - mysterious

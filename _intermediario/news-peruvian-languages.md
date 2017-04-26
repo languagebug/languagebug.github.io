@@ -7,7 +7,7 @@ vocabulary:
   - to speak
   - spoken
   - speakers
-- few
+  - few
   - very few
   - both
 paragraph:
