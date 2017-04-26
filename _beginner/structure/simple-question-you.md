@@ -8,17 +8,17 @@ script:
 - Yes, I do.
 - No, I don't.
 examples:
-- Work
-- Study
-- Drive
-- Exercise
-- Want a cup of coffee
-- Live near here
-- Speak english
-- Like the Beatles
-- Have children
-- Joga tennis
-- Aproveita a sua vida
-- Lê livros
-- Come massas
+- work
+- study
+- drive
+- exercise
+- want a cup of coffee
+- live near here
+- speak english
+- like the beatles
+- have children
+- joga tennis
+- aproveita a sua vida
+- lê livros
+- come massas
 ---

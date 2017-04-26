@@ -8,11 +8,15 @@ script:
 - Yes, I could.
 - No, I couldn't.
 examples:
-- Bring me a glass of water
-- Say your name again
-- Help me study English
-- Repeat please
-- Speak a little faster
-- Speak a little slower
-- Do me a favor
+- bring me a glass of water
+- say your name again
+- help me study english
+- repeat please
+- speak a little faster
+- speak a little slower
+- do me a favor
+- take me to the airport
+- write it down for me
+- call me tomorrow
+- tell me a story
 ---

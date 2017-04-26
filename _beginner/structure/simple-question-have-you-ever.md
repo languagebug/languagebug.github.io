@@ -8,15 +8,15 @@ script:
 - Yes, I have.
 - No, I have never ___.
 examples:
-- Visited the U.S
-- Wanted to live in Bahia
-- Been to a theater
-- Watched a 3D movie
-- Worked in a restaurant
-- Traveled to Europe
-- Studied Spanish
-- Missed your childhood
-- Played tennis
-- Gone skiing
-- Cooked for more than 10 people
+- visited the U.S.
+- wanted to live in Bahia
+- been to a theater
+- watched a 3d movie
+- worked in a restaurant
+- traveled to europe
+- studied spanish
+- missed your childhood
+- played tennis
+- gone skiing
+- cooked for more than 10 people
 ---

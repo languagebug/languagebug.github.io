@@ -18,4 +18,5 @@ examples:
 - leave your family to live in Europe
 - pay to have a personal coach
 - teach English
+- like to buy a new house
 ---

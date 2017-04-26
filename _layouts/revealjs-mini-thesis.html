@@ -6,6 +6,20 @@ layout: revealjs-default
     <h2>Mini-thesis</h2>
     <h1>{{ page.title }}</h1>
 </section>
+
+{% if page.vocabulary %}
+<section>
+    <p>
+        {% for i in (0..10) %}
+                {% if page.vocabulary[i] %}
+                    {{ page.vocabulary[i] }}
+                    &bull;
+                {% endif %}
+        {% endfor %}
+    </p>
+</section>
+{% endif %}
+
 <section>
     <p>
         {% for i in (0..10) %}

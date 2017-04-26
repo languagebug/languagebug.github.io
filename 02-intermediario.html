@@ -36,7 +36,20 @@ title: Intermediário
 <li class="ul-header">Mini-thesis:</li>
 	{% for item in site.intermediario %}
 		{% if item.layout == "revealjs-mini-thesis" %}
-			<li><a href="{{ item.url }}">{{ item.title }}</a></li>
+			<li>
+
+			<a href="{{ item.url }}">
+				
+				{% if item.vocabulary %}
+					<small>(Vocabulário)</small>
+				{% endif %}
+
+
+				{{ item.title }}
+
+			</a>
+
+			</li>
 		{% endif %}
 	{% endfor %}
 <li class="ul-header">Talk about:</li>

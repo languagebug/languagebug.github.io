@@ -1,6 +1,14 @@
 ---
 title: "News: Driver's License"
 layout: revealjs-mini-thesis
+vocabulary:
+  - enough
+  - yet
+  - reasons
+  - ride
+  - Lyft
+  - license
+  - effort
 paragraph:
 - Henry Stock is 16 years old. He is now old enough to drive.
 - Yet, he doesn’t see many reasons to get a driver’s license.

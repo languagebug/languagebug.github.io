@@ -1,6 +1,15 @@
 ---
 title: "News: 5-second rule"
 layout: revealjs-mini-thesis
+vocabulary:
+- set
+- beliefs
+- set of beliefs
+- to drop
+- dropped food
+- to share
+- safe
+- to pick up
 paragraph:
 - Some scientists are playing with their food to study a very old set of beliefs.
 - The beliefs are not about God, they are not about family.

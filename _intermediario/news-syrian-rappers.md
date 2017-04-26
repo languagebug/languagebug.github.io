@@ -1,6 +1,15 @@
 ---
 title: "News: Syrian Rappers"
 layout: revealjs-mini-thesis
+vocabulary:
+  - to escape
+  - life
+  - lives
+  - to grow up
+  - grew up
+  - refugee
+  - camp
+  - regugee camp
 paragraph:
 - Two brothers left Syria to escape a war and now live in Paris, France.
 - The brothers are Yaser and Mohamed Jamous and they write rap songs about their lives.

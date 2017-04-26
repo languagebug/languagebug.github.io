@@ -1,6 +1,14 @@
 ---
 title: "News: Climate Change In the Northeast"
 layout: revealjs-mini-thesis
+vocabulary:
+  - Northeast
+  - a few of them
+  - farmlands
+  - across
+  - to tend
+  - warm
+  - warmer
 paragraph:
 - The Northeast is home to many big cities. 
 - New York, Boston, and Philadelphia are just a few of them.

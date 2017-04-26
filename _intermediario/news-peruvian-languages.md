@@ -1,6 +1,15 @@
 ---
 title: "News: Peruvian Languages"
 layout: revealjs-mini-thesis
+vocabulary:
+  - living
+  - living person
+  - to speak
+  - spoken
+  - speakers
+- few
+  - very few
+  - both
 paragraph:
 - Amadeo Garcia is the only living person who speaks Taushiro. 
 - Pablo Andrade is the last person to speak Resigaro.
@@ -8,5 +17,5 @@ paragraph:
 - Many of Peru's native languages have very few speakers left. 
 - Seventeen languages have hardly any speakers.
 - One way to try to save the languages is by opening special schools. 
-- These schools use both the native language and Spanish
+- These schools use both the native language and Spanish.
 ---

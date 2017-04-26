@@ -21,4 +21,5 @@ examples:
 - go to the dentist
 - lift weights
 - ride a bicycle
+- study English
 ---
