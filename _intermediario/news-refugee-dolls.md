@@ -11,6 +11,7 @@ vocabulary:
   - headscarf
   - main
   - refugee
+  - Muslim
 paragraph:
 - There are many kinds of dolls. 
 - Some wear hats. Others wear sparkly tiaras.
@@ -19,9 +20,10 @@ paragraph:
 - Jeanne Trabulsi would like to see more dolls representing Muslim women and girls.
 - She created a project called the Refugee Doll Project.
 source: https://newsela.com/articles/refugee-dolls/id/30218/
+questions:
+  - What is a hijab?
+  - What is a Muslim person?
+  - What is Islam?
+  - Who is Jeanne Trabulsi?
+  - What is the purpose of the Project?
 ---
-
-
-
-
-

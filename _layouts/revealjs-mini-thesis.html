@@ -44,6 +44,16 @@ layout: revealjs-default
     </section>
     {% endif %}
 {% endfor %}
+
+{% if page.questions %}
+<section>
+    <ol>
+        {% for item in page.questions %}
+            <li>{{ item }}</li>
+        {% endfor %}
+    </ol>
+</section>
+{% endif %}
 <!-- </section>
 <section>
     <p>{{ page.p1 }}</p>
