@@ -5,11 +5,14 @@ vocabulary:
 - tennis
 - superstar
 - to set a goal
+- tech
 - diversity
 - diverse
 - African-Americans
 - Latinos
 - workforces
+- to join
+- boardroom
 - silicon
 - valley
 - Silicon Valley
