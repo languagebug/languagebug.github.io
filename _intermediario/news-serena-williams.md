@@ -22,7 +22,7 @@ paragraph:
 - Serena Williams is a tennis superstar. 
 - Now she has set herself a new goal. 
 - Williams wants to make tech companies more diverse. 
-- She wants to help them more African-Americans, Latinos and women in their workforces. 
+- She wants to help them have more African-Americans, Latinos and women in their workforces. 
 - Williams now has a chance to do that. 
 - She is joining a Silicon Valley boardroom. 
 - Silicon Valley is in California. 

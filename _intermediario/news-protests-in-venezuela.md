@@ -7,7 +7,7 @@ vocabulary:
 - to worth
 - "<b>structure</b>: used to"
 - "<b>structure</b>: it takes"
-- protsts
+- protests
 - to grow
 paragraph:
 - Venezuela once was a rich country.
